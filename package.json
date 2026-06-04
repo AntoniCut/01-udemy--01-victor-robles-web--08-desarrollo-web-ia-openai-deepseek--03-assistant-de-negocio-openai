@@ -25,7 +25,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AntoniCut/01-udemy--01-victor-robles-web--08-desarrollo-web-ia-openai-deepseek---03-assistant-de-negocio-openai"
+    "url": "https://github.com/AntoniCut/01-udemy--01-victor-robles-web--08-desarrollo-web-ia-openai-deepseek--03-assistant-de-negocio-openai"
   },
   "dependencies": {
     "axios": "1.8.1",
