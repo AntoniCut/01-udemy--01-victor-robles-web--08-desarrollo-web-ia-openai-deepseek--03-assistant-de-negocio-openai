@@ -1,0 +1,78 @@
+<!--  
+    *  ---------------------------------------------  *
+    *  -----  /index.html  /public/index.html  -----  *
+    *  ---------------------------------------------  *
+-->
+
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="icon" type="image/x-icon" href="./assets/img/carrito-de-supermercado-16x16.png" />
+    <title> Asistente de Negocio Open AI </title>
+    <link rel="stylesheet" href="./assets/css/styles.css">
+    <script src="./assets/js/main.js" defer> </script>
+
+</head>
+
+<body>
+
+
+    <div class="layout__chat">
+
+
+        <!--  ----  Header  -----   -->
+        <header class="chat__header">
+
+            <img 
+                class="header__icon" 
+                src="./assets/img/carrito-de-supermercado-40x40.avif"
+                alt="Ícono de Carrito de Supermercado" width="40" height="40"
+            >
+
+            <h1 class="header__title">
+                Asistente - Supermercado
+                <br>
+                El PicoEsquina
+            </h1>
+
+        </header>
+
+
+        <!--  ----  Main  -----   -->
+        <main class="chat__main">
+
+            <!--  -----  Mensajes del Chat  -----  -->
+            <div class="chat__messages">
+                <!--  *****  Cargar los Mensajes  *****  -->
+            </div>
+
+            <!--  -----  Inputs del Chat  -----  -->
+            <div class="chat__input-group">
+
+                <!--  -----  Input de Texto  -----  -->
+                <input 
+                    type="text" id="inputText" 
+                    class="chat__input" 
+                    placeholder="¿En que te puedo ayudar?"
+                >
+
+                <!--  -----  Botón de Traducción  -----  -->
+                <button class="chat__button" id="sendButton"> 
+                    Traducir 
+                </button>
+
+            </div>
+
+        </main>
+
+    </div>
+
+</body>
+
+</html>

@@ -1,0 +1,47 @@
+{
+  "name": "03-assistant-de-negocio-openai",
+  "version": "1.0.0",
+  "description": "Proyecto de Assistant conversacional de negocio utilizando JavaScript, Express y el API de OpenAI",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js",
+    "serve": "node app.js",
+    "build": "gulp build",
+    "start:prod": "node dist/app.js",
+    "clean": "kill-port 3003",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assistant",
+    "chatbot",
+    "negocio",
+    "openai",
+    "javascript",
+    "nodejs",
+    "express"
+  ],
+  "author": "AntonyDev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntoniCut/01-udemy--01-victor-robles-web--08-desarrollo-web-ia-openai-deepseek---03-assistant-de-negocio-openai"
+  },
+  "dependencies": {
+    "axios": "1.8.1",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "openai": "^6.16.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "del": "^8.0.1",
+    "gulp": "^5.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-terser": "^2.1.0",
+    "nodemon": "^3.1.11"
+  },
+  "packageManager": "pnpm@11.5.1+sha512.93f7b57422ea7068257235b4c16eb60762eb68e1dc23723199cc739043ea9be2c4143274a399d8c6defa2b1176226d9ca1c4b63482d6200c1a8fbaa78c1d1485"
+}

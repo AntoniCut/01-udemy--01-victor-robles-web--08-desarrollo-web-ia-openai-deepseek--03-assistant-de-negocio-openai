@@ -1,0 +1,1382 @@
+[
+  {
+    "nombre": "Gel de Ducha 1",
+    "precio": 15.74,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 186
+  },
+  {
+    "nombre": "Pimiento 2",
+    "precio": 1.64,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 220
+  },
+  {
+    "nombre": "Melocotón 3",
+    "precio": 14.87,
+    "marca": "FreshCare",
+    "cantidadEnStock": 123
+  },
+  {
+    "nombre": "Leche 4",
+    "precio": 3.11,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 241
+  },
+  {
+    "nombre": "Té 5",
+    "precio": 11.28,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 287
+  },
+  {
+    "nombre": "Kéfir 6",
+    "precio": 16.85,
+    "marca": "Delicias",
+    "cantidadEnStock": 30
+  },
+  {
+    "nombre": "Harina 7",
+    "precio": 21.37,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 134
+  },
+  {
+    "nombre": "Gel de Ducha 8",
+    "precio": 17.24,
+    "marca": "CleanMax",
+    "cantidadEnStock": 172
+  },
+  {
+    "nombre": "Uva 9",
+    "precio": 15.36,
+    "marca": "Premium Food",
+    "cantidadEnStock": 109
+  },
+  {
+    "nombre": "Kiwi 10",
+    "precio": 1.5,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 218
+  },
+  {
+    "nombre": "Tomate Frito 11",
+    "precio": 7.77,
+    "marca": "Premium Food",
+    "cantidadEnStock": 173
+  },
+  {
+    "nombre": "Espinaca 12",
+    "precio": 10.38,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 224
+  },
+  {
+    "nombre": "Pasta 13",
+    "precio": 19.39,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 191
+  },
+  {
+    "nombre": "Barra de Pan 14",
+    "precio": 1.16,
+    "marca": "Delicias",
+    "cantidadEnStock": 42
+  },
+  {
+    "nombre": "Plátano 15",
+    "precio": 2.79,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 80
+  },
+  {
+    "nombre": "Barra de Pan 16",
+    "precio": 17.38,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 216
+  },
+  {
+    "nombre": "Croissant 17",
+    "precio": 15.65,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 12
+  },
+  {
+    "nombre": "Pasta 18",
+    "precio": 24.91,
+    "marca": "Premium Food",
+    "cantidadEnStock": 296
+  },
+  {
+    "nombre": "Carne Picada 19",
+    "precio": 19.25,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 11
+  },
+  {
+    "nombre": "Sandía 20",
+    "precio": 8.34,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 296
+  },
+  {
+    "nombre": "Champú 21",
+    "precio": 4.72,
+    "marca": "Delicias",
+    "cantidadEnStock": 220
+  },
+  {
+    "nombre": "Desodorante 22",
+    "precio": 2.26,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 127
+  },
+  {
+    "nombre": "Croissant 23",
+    "precio": 5.79,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 42
+  },
+  {
+    "nombre": "Espinaca 24",
+    "precio": 20.1,
+    "marca": "Premium Food",
+    "cantidadEnStock": 94
+  },
+  {
+    "nombre": "Melón 25",
+    "precio": 19.86,
+    "marca": "FreshCare",
+    "cantidadEnStock": 85
+  },
+  {
+    "nombre": "Arroz 26",
+    "precio": 20.62,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 162
+  },
+  {
+    "nombre": "Pepino 27",
+    "precio": 24.84,
+    "marca": "CleanMax",
+    "cantidadEnStock": 272
+  },
+  {
+    "nombre": "Champú Perro 28",
+    "precio": 7.19,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 222
+  },
+  {
+    "nombre": "Bebida Energética 29",
+    "precio": 2.73,
+    "marca": "FreshCare",
+    "cantidadEnStock": 245
+  },
+  {
+    "nombre": "Cepillo Dental 30",
+    "precio": 2.4,
+    "marca": "AquaPure",
+    "cantidadEnStock": 179
+  },
+  {
+    "nombre": "Desodorante 31",
+    "precio": 6.84,
+    "marca": "FreshCare",
+    "cantidadEnStock": 116
+  },
+  {
+    "nombre": "Bebida Energética 32",
+    "precio": 10.53,
+    "marca": "Premium Food",
+    "cantidadEnStock": 85
+  },
+  {
+    "nombre": "Arroz 33",
+    "precio": 2.95,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 231
+  },
+  {
+    "nombre": "Kéfir 34",
+    "precio": 24.72,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 98
+  },
+  {
+    "nombre": "Suavizante 35",
+    "precio": 8.66,
+    "marca": "FreshCare",
+    "cantidadEnStock": 70
+  },
+  {
+    "nombre": "Yogur 36",
+    "precio": 11.34,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 239
+  },
+  {
+    "nombre": "Maíz Dulce 37",
+    "precio": 8.05,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 144
+  },
+  {
+    "nombre": "Champú 38",
+    "precio": 7.38,
+    "marca": "CleanMax",
+    "cantidadEnStock": 278
+  },
+  {
+    "nombre": "Leche 39",
+    "precio": 12.42,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 99
+  },
+  {
+    "nombre": "Comida Gato 40",
+    "precio": 10.05,
+    "marca": "CleanMax",
+    "cantidadEnStock": 91
+  },
+  {
+    "nombre": "Pechuga de Pollo 41",
+    "precio": 22.02,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 163
+  },
+  {
+    "nombre": "Maíz Dulce 42",
+    "precio": 16.76,
+    "marca": "Delicias",
+    "cantidadEnStock": 292
+  },
+  {
+    "nombre": "Magdalena 43",
+    "precio": 24.07,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 45
+  },
+  {
+    "nombre": "Melón 44",
+    "precio": 1.43,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 238
+  },
+  {
+    "nombre": "Pimiento 45",
+    "precio": 23.81,
+    "marca": "CleanMax",
+    "cantidadEnStock": 28
+  },
+  {
+    "nombre": "Pavo 46",
+    "precio": 21.97,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 133
+  },
+  {
+    "nombre": "Arena Gato 47",
+    "precio": 11.07,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 137
+  },
+  {
+    "nombre": "Cepillo Dental 48",
+    "precio": 18.54,
+    "marca": "AquaPure",
+    "cantidadEnStock": 275
+  },
+  {
+    "nombre": "Melocotón 49",
+    "precio": 19.45,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 108
+  },
+  {
+    "nombre": "Espinaca 50",
+    "precio": 8.31,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 117
+  },
+  {
+    "nombre": "Arroz 51",
+    "precio": 12.5,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 259
+  },
+  {
+    "nombre": "Arena Gato 52",
+    "precio": 10.3,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 260
+  },
+  {
+    "nombre": "Plátano 53",
+    "precio": 18.89,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 153
+  },
+  {
+    "nombre": "Queso 54",
+    "precio": 16.82,
+    "marca": "Delicias",
+    "cantidadEnStock": 112
+  },
+  {
+    "nombre": "Desodorante 55",
+    "precio": 10.29,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 134
+  },
+  {
+    "nombre": "Donut 56",
+    "precio": 24.68,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 145
+  },
+  {
+    "nombre": "Arroz 57",
+    "precio": 12.56,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 221
+  },
+  {
+    "nombre": "Papel Higiénico 58",
+    "precio": 4.5,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 166
+  },
+  {
+    "nombre": "Aceite de Oliva 59",
+    "precio": 8.51,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 262
+  },
+  {
+    "nombre": "Queso 60",
+    "precio": 9.38,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 128
+  },
+  {
+    "nombre": "Champú 61",
+    "precio": 11.51,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 211
+  },
+  {
+    "nombre": "Lechuga 62",
+    "precio": 13.16,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 9
+  },
+  {
+    "nombre": "Comida Gato 63",
+    "precio": 23.36,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 146
+  },
+  {
+    "nombre": "Chuleta de Cerdo 64",
+    "precio": 9.34,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 120
+  },
+  {
+    "nombre": "Yogur 65",
+    "precio": 9.64,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 26
+  },
+  {
+    "nombre": "Té 66",
+    "precio": 13.63,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 253
+  },
+  {
+    "nombre": "Maíz Dulce 67",
+    "precio": 10.81,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 74
+  },
+  {
+    "nombre": "Cepillo Dental 68",
+    "precio": 9.64,
+    "marca": "CleanMax",
+    "cantidadEnStock": 233
+  },
+  {
+    "nombre": "Arena Gato 69",
+    "precio": 20.8,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 56
+  },
+  {
+    "nombre": "Chuleta de Cerdo 70",
+    "precio": 14.59,
+    "marca": "FreshCare",
+    "cantidadEnStock": 116
+  },
+  {
+    "nombre": "Tomate 71",
+    "precio": 8.33,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 111
+  },
+  {
+    "nombre": "Comida Gato 72",
+    "precio": 17.33,
+    "marca": "Delicias",
+    "cantidadEnStock": 53
+  },
+  {
+    "nombre": "Kiwi 73",
+    "precio": 12.13,
+    "marca": "Premium Food",
+    "cantidadEnStock": 144
+  },
+  {
+    "nombre": "Desodorante 74",
+    "precio": 17.69,
+    "marca": "AquaPure",
+    "cantidadEnStock": 39
+  },
+  {
+    "nombre": "Magdalena 75",
+    "precio": 22.9,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 221
+  },
+  {
+    "nombre": "Cepillo Dental 76",
+    "precio": 6.63,
+    "marca": "CleanMax",
+    "cantidadEnStock": 282
+  },
+  {
+    "nombre": "Snack Perro 77",
+    "precio": 19.41,
+    "marca": "FreshCare",
+    "cantidadEnStock": 122
+  },
+  {
+    "nombre": "Agua 78",
+    "precio": 17.08,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 228
+  },
+  {
+    "nombre": "Pasta de Dientes 79",
+    "precio": 20.18,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 163
+  },
+  {
+    "nombre": "Kéfir 80",
+    "precio": 2.28,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 109
+  },
+  {
+    "nombre": "Espinaca 81",
+    "precio": 22.14,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 161
+  },
+  {
+    "nombre": "Suavizante 82",
+    "precio": 3.79,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 14
+  },
+  {
+    "nombre": "Carne Picada 83",
+    "precio": 13.74,
+    "marca": "CleanMax",
+    "cantidadEnStock": 115
+  },
+  {
+    "nombre": "Salchichas 84",
+    "precio": 3.74,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 270
+  },
+  {
+    "nombre": "Desinfectante 85",
+    "precio": 18.78,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 275
+  },
+  {
+    "nombre": "Queso 86",
+    "precio": 7.44,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 225
+  },
+  {
+    "nombre": "Juguete Gato 87",
+    "precio": 16.08,
+    "marca": "Delicias",
+    "cantidadEnStock": 274
+  },
+  {
+    "nombre": "Limpiacristales 88",
+    "precio": 21.55,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 16
+  },
+  {
+    "nombre": "Champú Perro 89",
+    "precio": 19.47,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 198
+  },
+  {
+    "nombre": "Pechuga de Pollo 90",
+    "precio": 6.5,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 195
+  },
+  {
+    "nombre": "Champú Perro 91",
+    "precio": 5.07,
+    "marca": "Delicias",
+    "cantidadEnStock": 236
+  },
+  {
+    "nombre": "Té 92",
+    "precio": 23.77,
+    "marca": "Delicias",
+    "cantidadEnStock": 15
+  },
+  {
+    "nombre": "Desinfectante 93",
+    "precio": 1.06,
+    "marca": "Delicias",
+    "cantidadEnStock": 145
+  },
+  {
+    "nombre": "Manzana 94",
+    "precio": 3.01,
+    "marca": "FreshCare",
+    "cantidadEnStock": 286
+  },
+  {
+    "nombre": "Uva 95",
+    "precio": 24.26,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 163
+  },
+  {
+    "nombre": "Bebida Energética 96",
+    "precio": 18.13,
+    "marca": "AquaPure",
+    "cantidadEnStock": 191
+  },
+  {
+    "nombre": "Arena Gato 97",
+    "precio": 20.89,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 19
+  },
+  {
+    "nombre": "Té 98",
+    "precio": 19.58,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 296
+  },
+  {
+    "nombre": "Uva 99",
+    "precio": 14.06,
+    "marca": "Premium Food",
+    "cantidadEnStock": 15
+  },
+  {
+    "nombre": "Juguete Gato 100",
+    "precio": 19.73,
+    "marca": "AquaPure",
+    "cantidadEnStock": 265
+  },
+  {
+    "nombre": "Arroz 101",
+    "precio": 9.29,
+    "marca": "Delicias",
+    "cantidadEnStock": 59
+  },
+  {
+    "nombre": "Salchichas 102",
+    "precio": 7.81,
+    "marca": "CleanMax",
+    "cantidadEnStock": 8
+  },
+  {
+    "nombre": "Champú Perro 103",
+    "precio": 2.89,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 206
+  },
+  {
+    "nombre": "Barra de Pan 104",
+    "precio": 7.91,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 207
+  },
+  {
+    "nombre": "Té 105",
+    "precio": 18.64,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 276
+  },
+  {
+    "nombre": "Champú 106",
+    "precio": 20.1,
+    "marca": "CleanMax",
+    "cantidadEnStock": 143
+  },
+  {
+    "nombre": "Agua 107",
+    "precio": 4.01,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 8
+  },
+  {
+    "nombre": "Filete de Ternera 108",
+    "precio": 20.78,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 181
+  },
+  {
+    "nombre": "Uva 109",
+    "precio": 24.55,
+    "marca": "AquaPure",
+    "cantidadEnStock": 83
+  },
+  {
+    "nombre": "Baguette 110",
+    "precio": 15.91,
+    "marca": "CleanMax",
+    "cantidadEnStock": 201
+  },
+  {
+    "nombre": "Chuleta de Cerdo 111",
+    "precio": 20.29,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 168
+  },
+  {
+    "nombre": "Comida Perro 112",
+    "precio": 2.42,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 174
+  },
+  {
+    "nombre": "Carne Picada 113",
+    "precio": 18.28,
+    "marca": "Delicias",
+    "cantidadEnStock": 222
+  },
+  {
+    "nombre": "Arena Gato 114",
+    "precio": 3.43,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 133
+  },
+  {
+    "nombre": "Salchichas 115",
+    "precio": 22.26,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 39
+  },
+  {
+    "nombre": "Cebolla 116",
+    "precio": 12.56,
+    "marca": "Premium Food",
+    "cantidadEnStock": 265
+  },
+  {
+    "nombre": "Espinaca 117",
+    "precio": 5.84,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 34
+  },
+  {
+    "nombre": "Nata 118",
+    "precio": 20.61,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 129
+  },
+  {
+    "nombre": "Champú Perro 119",
+    "precio": 13.46,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 200
+  },
+  {
+    "nombre": "Arena Gato 120",
+    "precio": 24.72,
+    "marca": "AquaPure",
+    "cantidadEnStock": 266
+  },
+  {
+    "nombre": "Mantequilla 121",
+    "precio": 13.45,
+    "marca": "CleanMax",
+    "cantidadEnStock": 20
+  },
+  {
+    "nombre": "Sandía 122",
+    "precio": 11.38,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 131
+  },
+  {
+    "nombre": "Desinfectante 123",
+    "precio": 24.1,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 264
+  },
+  {
+    "nombre": "Lavavajillas 124",
+    "precio": 2.46,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 212
+  },
+  {
+    "nombre": "Piña 125",
+    "precio": 16.23,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 47
+  },
+  {
+    "nombre": "Comida Gato 126",
+    "precio": 5.03,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 297
+  },
+  {
+    "nombre": "Comida Perro 127",
+    "precio": 19.51,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 26
+  },
+  {
+    "nombre": "Magdalena 128",
+    "precio": 12.1,
+    "marca": "FreshCare",
+    "cantidadEnStock": 73
+  },
+  {
+    "nombre": "Snack Perro 129",
+    "precio": 18.34,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 68
+  },
+  {
+    "nombre": "Chuleta de Cerdo 130",
+    "precio": 1.18,
+    "marca": "CleanMax",
+    "cantidadEnStock": 183
+  },
+  {
+    "nombre": "Snack Perro 131",
+    "precio": 15.73,
+    "marca": "AquaPure",
+    "cantidadEnStock": 108
+  },
+  {
+    "nombre": "Pavo 132",
+    "precio": 5.1,
+    "marca": "FreshCare",
+    "cantidadEnStock": 171
+  },
+  {
+    "nombre": "Juguete Gato 133",
+    "precio": 4.85,
+    "marca": "CleanMax",
+    "cantidadEnStock": 107
+  },
+  {
+    "nombre": "Snack Perro 134",
+    "precio": 13.99,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 201
+  },
+  {
+    "nombre": "Pechuga de Pollo 135",
+    "precio": 18.45,
+    "marca": "CleanMax",
+    "cantidadEnStock": 68
+  },
+  {
+    "nombre": "Leche 136",
+    "precio": 7.55,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 147
+  },
+  {
+    "nombre": "Sandía 137",
+    "precio": 14.7,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 27
+  },
+  {
+    "nombre": "Manzana 138",
+    "precio": 12.49,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 235
+  },
+  {
+    "nombre": "Pechuga de Pollo 139",
+    "precio": 21.5,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 115
+  },
+  {
+    "nombre": "Barra de Pan 140",
+    "precio": 3.45,
+    "marca": "FreshCare",
+    "cantidadEnStock": 196
+  },
+  {
+    "nombre": "Mantequilla 141",
+    "precio": 21.83,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 256
+  },
+  {
+    "nombre": "Calabacín 142",
+    "precio": 23.03,
+    "marca": "AquaPure",
+    "cantidadEnStock": 160
+  },
+  {
+    "nombre": "Snack Perro 143",
+    "precio": 19.42,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 151
+  },
+  {
+    "nombre": "Atún 144",
+    "precio": 4.92,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 129
+  },
+  {
+    "nombre": "Melón 145",
+    "precio": 9.89,
+    "marca": "AquaPure",
+    "cantidadEnStock": 169
+  },
+  {
+    "nombre": "Zumo 146",
+    "precio": 7.04,
+    "marca": "AquaPure",
+    "cantidadEnStock": 253
+  },
+  {
+    "nombre": "Pasta 147",
+    "precio": 8.77,
+    "marca": "FreshCare",
+    "cantidadEnStock": 91
+  },
+  {
+    "nombre": "Café 148",
+    "precio": 19.85,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 51
+  },
+  {
+    "nombre": "Desinfectante 149",
+    "precio": 7.47,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 98
+  },
+  {
+    "nombre": "Berenjena 150",
+    "precio": 8.72,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 9
+  },
+  {
+    "nombre": "Zanahoria 151",
+    "precio": 19.23,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 253
+  },
+  {
+    "nombre": "Calabacín 152",
+    "precio": 5.25,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 139
+  },
+  {
+    "nombre": "Desinfectante 153",
+    "precio": 8.26,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 76
+  },
+  {
+    "nombre": "Arena Gato 154",
+    "precio": 23.79,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 271
+  },
+  {
+    "nombre": "Maíz Dulce 155",
+    "precio": 20.85,
+    "marca": "Delicias",
+    "cantidadEnStock": 244
+  },
+  {
+    "nombre": "Café 156",
+    "precio": 21.35,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 196
+  },
+  {
+    "nombre": "Maíz Dulce 157",
+    "precio": 7.1,
+    "marca": "Delicias",
+    "cantidadEnStock": 18
+  },
+  {
+    "nombre": "Uva 158",
+    "precio": 10.44,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 230
+  },
+  {
+    "nombre": "Melón 159",
+    "precio": 23.33,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 97
+  },
+  {
+    "nombre": "Atún 160",
+    "precio": 24.64,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 29
+  },
+  {
+    "nombre": "Pasta de Dientes 161",
+    "precio": 15.17,
+    "marca": "CleanMax",
+    "cantidadEnStock": 27
+  },
+  {
+    "nombre": "Mantequilla 162",
+    "precio": 24.29,
+    "marca": "FreshCare",
+    "cantidadEnStock": 145
+  },
+  {
+    "nombre": "Sal 163",
+    "precio": 6.7,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 103
+  },
+  {
+    "nombre": "Mantequilla 164",
+    "precio": 6.75,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 18
+  },
+  {
+    "nombre": "Atún 165",
+    "precio": 18.04,
+    "marca": "Delicias",
+    "cantidadEnStock": 103
+  },
+  {
+    "nombre": "Lechuga 166",
+    "precio": 19.12,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 111
+  },
+  {
+    "nombre": "Sandía 167",
+    "precio": 19.09,
+    "marca": "CleanMax",
+    "cantidadEnStock": 290
+  },
+  {
+    "nombre": "Barra de Pan 168",
+    "precio": 11.17,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 143
+  },
+  {
+    "nombre": "Arena Gato 169",
+    "precio": 11.65,
+    "marca": "CleanMax",
+    "cantidadEnStock": 115
+  },
+  {
+    "nombre": "Lejía 170",
+    "precio": 2.67,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 207
+  },
+  {
+    "nombre": "Nata 171",
+    "precio": 5.37,
+    "marca": "Delicias",
+    "cantidadEnStock": 102
+  },
+  {
+    "nombre": "Champú 172",
+    "precio": 18.79,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 266
+  },
+  {
+    "nombre": "Desinfectante 173",
+    "precio": 10.4,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 241
+  },
+  {
+    "nombre": "Agua 174",
+    "precio": 16.96,
+    "marca": "Campo Fresco",
+    "cantidadEnStock": 137
+  },
+  {
+    "nombre": "Pasta de Dientes 175",
+    "precio": 14.27,
+    "marca": "AquaPure",
+    "cantidadEnStock": 18
+  },
+  {
+    "nombre": "Kéfir 176",
+    "precio": 11.28,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 135
+  },
+  {
+    "nombre": "Cebolla 177",
+    "precio": 1.74,
+    "marca": "CleanMax",
+    "cantidadEnStock": 277
+  },
+  {
+    "nombre": "Suavizante 178",
+    "precio": 24.97,
+    "marca": "Delicias",
+    "cantidadEnStock": 107
+  },
+  {
+    "nombre": "Gel de Ducha 179",
+    "precio": 15.49,
+    "marca": "Delicias",
+    "cantidadEnStock": 183
+  },
+  {
+    "nombre": "Azúcar 180",
+    "precio": 8.9,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 232
+  },
+  {
+    "nombre": "Magdalena 181",
+    "precio": 2.06,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 159
+  },
+  {
+    "nombre": "Comida Perro 182",
+    "precio": 3.4,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 118
+  },
+  {
+    "nombre": "Zumo 183",
+    "precio": 10.13,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 180
+  },
+  {
+    "nombre": "Pimiento 184",
+    "precio": 8.17,
+    "marca": "CleanMax",
+    "cantidadEnStock": 79
+  },
+  {
+    "nombre": "Carne Picada 185",
+    "precio": 19.95,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 87
+  },
+  {
+    "nombre": "Salchichas 186",
+    "precio": 23.46,
+    "marca": "Premium Food",
+    "cantidadEnStock": 92
+  },
+  {
+    "nombre": "Carne Picada 187",
+    "precio": 24.81,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 276
+  },
+  {
+    "nombre": "Lejía 188",
+    "precio": 18.15,
+    "marca": "Premium Food",
+    "cantidadEnStock": 85
+  },
+  {
+    "nombre": "Cepillo Dental 189",
+    "precio": 2.11,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 108
+  },
+  {
+    "nombre": "Champú 190",
+    "precio": 5.08,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 269
+  },
+  {
+    "nombre": "Papel Higiénico 191",
+    "precio": 9.05,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 45
+  },
+  {
+    "nombre": "Refresco Cola 192",
+    "precio": 13.19,
+    "marca": "Premium Food",
+    "cantidadEnStock": 156
+  },
+  {
+    "nombre": "Café 193",
+    "precio": 6.48,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 251
+  },
+  {
+    "nombre": "Cebolla 194",
+    "precio": 2.04,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 23
+  },
+  {
+    "nombre": "Lejía 195",
+    "precio": 8.23,
+    "marca": "Delicias",
+    "cantidadEnStock": 228
+  },
+  {
+    "nombre": "Croissant 196",
+    "precio": 10.35,
+    "marca": "Delicias",
+    "cantidadEnStock": 171
+  },
+  {
+    "nombre": "Pechuga de Pollo 197",
+    "precio": 4.39,
+    "marca": "Delicias",
+    "cantidadEnStock": 223
+  },
+  {
+    "nombre": "Plátano 198",
+    "precio": 8.85,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 269
+  },
+  {
+    "nombre": "Leche 199",
+    "precio": 14.1,
+    "marca": "CleanMax",
+    "cantidadEnStock": 218
+  },
+  {
+    "nombre": "Lechuga 200",
+    "precio": 1.91,
+    "marca": "Delicias",
+    "cantidadEnStock": 79
+  },
+  {
+    "nombre": "Melón 201",
+    "precio": 13.67,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 78
+  },
+  {
+    "nombre": "Desinfectante 202",
+    "precio": 4.61,
+    "marca": "Premium Food",
+    "cantidadEnStock": 168
+  },
+  {
+    "nombre": "Magdalena 203",
+    "precio": 24.42,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 152
+  },
+  {
+    "nombre": "Lavavajillas 204",
+    "precio": 21.5,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 212
+  },
+  {
+    "nombre": "Pavo 205",
+    "precio": 5.47,
+    "marca": "Delicias",
+    "cantidadEnStock": 91
+  },
+  {
+    "nombre": "Croissant 206",
+    "precio": 16.91,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 9
+  },
+  {
+    "nombre": "Gel de Ducha 207",
+    "precio": 18.34,
+    "marca": "Premium Food",
+    "cantidadEnStock": 232
+  },
+  {
+    "nombre": "Calabacín 208",
+    "precio": 4.72,
+    "marca": "Delicias",
+    "cantidadEnStock": 199
+  },
+  {
+    "nombre": "Desodorante 209",
+    "precio": 23.21,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 295
+  },
+  {
+    "nombre": "Suavizante 210",
+    "precio": 6.93,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 279
+  },
+  {
+    "nombre": "Juguete Gato 211",
+    "precio": 5.14,
+    "marca": "Natural Plus",
+    "cantidadEnStock": 259
+  },
+  {
+    "nombre": "Pera 212",
+    "precio": 24.69,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 37
+  },
+  {
+    "nombre": "Barra de Pan 213",
+    "precio": 10.76,
+    "marca": "FreshCare",
+    "cantidadEnStock": 273
+  },
+  {
+    "nombre": "Azúcar 214",
+    "precio": 24.19,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 147
+  },
+  {
+    "nombre": "Manzana 215",
+    "precio": 21.96,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 72
+  },
+  {
+    "nombre": "Berenjena 216",
+    "precio": 19.95,
+    "marca": "PetFood Plus",
+    "cantidadEnStock": 127
+  },
+  {
+    "nombre": "Agua 217",
+    "precio": 12.27,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 151
+  },
+  {
+    "nombre": "Barra de Pan 218",
+    "precio": 22.18,
+    "marca": "FreshCare",
+    "cantidadEnStock": 65
+  },
+  {
+    "nombre": "Carne Picada 219",
+    "precio": 9.42,
+    "marca": "Carnes Premium",
+    "cantidadEnStock": 61
+  },
+  {
+    "nombre": "Tomate 220",
+    "precio": 14.8,
+    "marca": "Delicias",
+    "cantidadEnStock": 211
+  },
+  {
+    "nombre": "Tomate 221",
+    "precio": 4.16,
+    "marca": "Despensa Selecta",
+    "cantidadEnStock": 216
+  },
+  {
+    "nombre": "Pechuga de Pollo 222",
+    "precio": 4.38,
+    "marca": "Panadería Real",
+    "cantidadEnStock": 188
+  },
+  {
+    "nombre": "Uva 223",
+    "precio": 12.5,
+    "marca": "FreshCare",
+    "cantidadEnStock": 185
+  },
+  {
+    "nombre": "Suavizante 224",
+    "precio": 1.03,
+    "marca": "Premium Food",
+    "cantidadEnStock": 13
+  },
+  {
+    "nombre": "Cebolla 225",
+    "precio": 5.43,
+    "marca": "CleanMax",
+    "cantidadEnStock": 60
+  },
+  {
+    "nombre": "Desinfectante 226",
+    "precio": 22.54,
+    "marca": "EcoMarket",
+    "cantidadEnStock": 72
+  },
+  {
+    "nombre": "Azúcar 227",
+    "precio": 23.33,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 232
+  },
+  {
+    "nombre": "Manzana 228",
+    "precio": 23.54,
+    "marca": "Lácteos del Valle",
+    "cantidadEnStock": 156
+  },
+  {
+    "nombre": "Chuleta de Cerdo 229",
+    "precio": 16.96,
+    "marca": "CleanMax",
+    "cantidadEnStock": 281
+  },
+  {
+    "nombre": "Lavavajillas 230",
+    "precio": 17.44,
+    "marca": "Huerta Verde",
+    "cantidadEnStock": 103
+  }
+]

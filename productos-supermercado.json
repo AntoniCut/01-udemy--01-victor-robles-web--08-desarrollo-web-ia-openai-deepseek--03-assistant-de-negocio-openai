@@ -1,0 +1,2072 @@
+[
+  {
+    "id": "abd69784-3882-4c1d-adf8-f2bd54b3f9d2",
+    "nombre": "Azúcar",
+    "categoria": "Despensa",
+    "precio": 1.5,
+    "marca": "Nestle",
+    "cantidadEnStock": 140,
+    "sku": "SKU-397485"
+  },
+  {
+    "id": "5bcf2d85-12a0-44a2-9132-e97d8f33e4c3",
+    "nombre": "Sandía",
+    "categoria": "Frutas",
+    "precio": 25.17,
+    "marca": "Mondelez",
+    "cantidadEnStock": 181,
+    "sku": "SKU-113808"
+  },
+  {
+    "id": "ec2d4fe2-13ac-4ce3-bbe3-fb829253771f",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 7.7,
+    "marca": "Nestle",
+    "cantidadEnStock": 310,
+    "sku": "SKU-630365"
+  },
+  {
+    "id": "0fc15219-96cb-4db4-beb9-35e3ab96fb34",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 3.94,
+    "marca": "Nestle",
+    "cantidadEnStock": 228,
+    "sku": "SKU-479648"
+  },
+  {
+    "id": "34f0eebb-aa67-42c9-9647-d6e3cdca5ecb",
+    "nombre": "Bebida Energética",
+    "categoria": "Bebidas",
+    "precio": 25.3,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 230,
+    "sku": "SKU-306446"
+  },
+  {
+    "id": "69353990-b936-4e5e-acbf-2326191e150c",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 13.37,
+    "marca": "Nestle",
+    "cantidadEnStock": 97,
+    "sku": "SKU-342260"
+  },
+  {
+    "id": "a4a787fb-d2c3-436a-9716-a57f42b2b9a2",
+    "nombre": "Café Molido",
+    "categoria": "Bebidas",
+    "precio": 25.32,
+    "marca": "Nestle",
+    "cantidadEnStock": 492,
+    "sku": "SKU-519543"
+  },
+  {
+    "id": "fc894b32-34af-49ca-8c8a-7d65768d39a8",
+    "nombre": "Queso Curado",
+    "categoria": "Lacteos",
+    "precio": 4.05,
+    "marca": "Danone",
+    "cantidadEnStock": 21,
+    "sku": "SKU-344969"
+  },
+  {
+    "id": "cc9af11b-f39b-4f58-8ba4-fa0e43fb4911",
+    "nombre": "Papel Higiénico",
+    "categoria": "Higiene Personal",
+    "precio": 28.84,
+    "marca": "Unilever",
+    "cantidadEnStock": 23,
+    "sku": "SKU-634972"
+  },
+  {
+    "id": "feb1a225-30be-44cb-b8a4-c2f8052883b4",
+    "nombre": "Zanahoria",
+    "categoria": "Verduras",
+    "precio": 14.57,
+    "marca": "Mondelez",
+    "cantidadEnStock": 346,
+    "sku": "SKU-495188"
+  },
+  {
+    "id": "4b77522c-f331-4557-bcfd-bae7b716aaf9",
+    "nombre": "Plátano",
+    "categoria": "Frutas",
+    "precio": 17.45,
+    "marca": "Mondelez",
+    "cantidadEnStock": 461,
+    "sku": "SKU-469922"
+  },
+  {
+    "id": "63df7c53-e94b-4125-b645-98ed8d6db3c9",
+    "nombre": "Espinacas",
+    "categoria": "Verduras",
+    "precio": 12.33,
+    "marca": "Mondelez",
+    "cantidadEnStock": 105,
+    "sku": "SKU-118548"
+  },
+  {
+    "id": "e353dcbe-459d-4143-bdea-0ba64e7baf05",
+    "nombre": "Salchichas",
+    "categoria": "Carnes",
+    "precio": 17.05,
+    "marca": "Nestle",
+    "cantidadEnStock": 24,
+    "sku": "SKU-734973"
+  },
+  {
+    "id": "cddb011e-d0cc-4964-bd9e-5f52c7feb3c4",
+    "nombre": "Lejía",
+    "categoria": "Limpieza",
+    "precio": 16.67,
+    "marca": "Unilever",
+    "cantidadEnStock": 255,
+    "sku": "SKU-983820"
+  },
+  {
+    "id": "91ea17b7-e88f-4a2e-ac09-db77902de492",
+    "nombre": "Zanahoria",
+    "categoria": "Verduras",
+    "precio": 5.94,
+    "marca": "Mondelez",
+    "cantidadEnStock": 250,
+    "sku": "SKU-502194"
+  },
+  {
+    "id": "b9e75bdc-0aa8-4326-9493-11eeebc70044",
+    "nombre": "Queso Curado",
+    "categoria": "Lacteos",
+    "precio": 20.47,
+    "marca": "Danone",
+    "cantidadEnStock": 367,
+    "sku": "SKU-101891"
+  },
+  {
+    "id": "741d3d10-3746-4b88-aab1-bbe2801d7644",
+    "nombre": "Filete de Ternera",
+    "categoria": "Carnes",
+    "precio": 16.0,
+    "marca": "Nestle",
+    "cantidadEnStock": 100,
+    "sku": "SKU-232341"
+  },
+  {
+    "id": "6aa98d76-f8b8-42d0-9aa0-5680d5084944",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 19.46,
+    "marca": "Nestle",
+    "cantidadEnStock": 113,
+    "sku": "SKU-824985"
+  },
+  {
+    "id": "d343394a-12bb-4439-94a1-5582ed1b0d69",
+    "nombre": "Lavavajillas",
+    "categoria": "Limpieza",
+    "precio": 14.11,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 97,
+    "sku": "SKU-745764"
+  },
+  {
+    "id": "85fbd671-ae92-41f2-b405-5fa60d5b719d",
+    "nombre": "Lavavajillas",
+    "categoria": "Limpieza",
+    "precio": 6.78,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 99,
+    "sku": "SKU-520945"
+  },
+  {
+    "id": "e04af17b-47f6-447e-ba3f-e590a4be631d",
+    "nombre": "Calabacín",
+    "categoria": "Verduras",
+    "precio": 11.08,
+    "marca": "Mondelez",
+    "cantidadEnStock": 408,
+    "sku": "SKU-856858"
+  },
+  {
+    "id": "f547251f-ae34-404d-a0af-9af7be6b4422",
+    "nombre": "Plátano",
+    "categoria": "Frutas",
+    "precio": 22.29,
+    "marca": "Mondelez",
+    "cantidadEnStock": 317,
+    "sku": "SKU-300166"
+  },
+  {
+    "id": "6f362000-27e5-4128-8cf4-2b869ad99c47",
+    "nombre": "Café Molido",
+    "categoria": "Bebidas",
+    "precio": 14.59,
+    "marca": "Nestle",
+    "cantidadEnStock": 366,
+    "sku": "SKU-853583"
+  },
+  {
+    "id": "c993c4f8-1106-48aa-a24b-d7529c028de1",
+    "nombre": "Yogur Natural",
+    "categoria": "Lacteos",
+    "precio": 15.64,
+    "marca": "Danone",
+    "cantidadEnStock": 253,
+    "sku": "SKU-708809"
+  },
+  {
+    "id": "398f88f6-5afb-41ff-8893-80bbfe0b599d",
+    "nombre": "Piña",
+    "categoria": "Frutas",
+    "precio": 18.91,
+    "marca": "Mondelez",
+    "cantidadEnStock": 373,
+    "sku": "SKU-909480"
+  },
+  {
+    "id": "3b27aacc-c0ef-4439-8f75-ff86d8539e47",
+    "nombre": "Desinfectante Multiusos",
+    "categoria": "Limpieza",
+    "precio": 4.31,
+    "marca": "Unilever",
+    "cantidadEnStock": 69,
+    "sku": "SKU-571499"
+  },
+  {
+    "id": "5e420685-b849-40f1-9d88-8cf1d9036c61",
+    "nombre": "Pavo",
+    "categoria": "Carnes",
+    "precio": 6.48,
+    "marca": "Nestle",
+    "cantidadEnStock": 290,
+    "sku": "SKU-467478"
+  },
+  {
+    "id": "e719261f-9e62-4cf8-957a-a1261a9e23c8",
+    "nombre": "Limpiacristales",
+    "categoria": "Limpieza",
+    "precio": 2.51,
+    "marca": "Unilever",
+    "cantidadEnStock": 131,
+    "sku": "SKU-528078"
+  },
+  {
+    "id": "332ba740-7483-4168-8e7c-330f0b1cb458",
+    "nombre": "Sal",
+    "categoria": "Despensa",
+    "precio": 12.23,
+    "marca": "Nestle",
+    "cantidadEnStock": 244,
+    "sku": "SKU-917272"
+  },
+  {
+    "id": "8aa152d4-358c-4172-9be0-32a601169c9a",
+    "nombre": "Naranja",
+    "categoria": "Frutas",
+    "precio": 24.41,
+    "marca": "Mondelez",
+    "cantidadEnStock": 363,
+    "sku": "SKU-456721"
+  },
+  {
+    "id": "327c4389-9331-45e5-a28c-e8b1dc1e5c7d",
+    "nombre": "Detergente",
+    "categoria": "Limpieza",
+    "precio": 9.03,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 147,
+    "sku": "SKU-637384"
+  },
+  {
+    "id": "aeb00446-0b91-4bc3-9aed-06a52d0258e0",
+    "nombre": "Calabacín",
+    "categoria": "Verduras",
+    "precio": 26.73,
+    "marca": "Mondelez",
+    "cantidadEnStock": 250,
+    "sku": "SKU-267805"
+  },
+  {
+    "id": "ff5bd66b-1d4b-48ec-89e7-8d725e231ec3",
+    "nombre": "Arroz",
+    "categoria": "Despensa",
+    "precio": 0.76,
+    "marca": "Nestle",
+    "cantidadEnStock": 24,
+    "sku": "SKU-385091"
+  },
+  {
+    "id": "00e4b4da-f2d3-4172-ab6a-99875d726cd7",
+    "nombre": "Nata para Cocinar",
+    "categoria": "Lacteos",
+    "precio": 19.88,
+    "marca": "Danone",
+    "cantidadEnStock": 82,
+    "sku": "SKU-414877"
+  },
+  {
+    "id": "34ee8c5a-ed7d-44fd-ad97-2e99123c4471",
+    "nombre": "Magdalenas",
+    "categoria": "Panaderia",
+    "precio": 29.23,
+    "marca": "Mondelez",
+    "cantidadEnStock": 270,
+    "sku": "SKU-268404"
+  },
+  {
+    "id": "d350fa50-e886-4c9d-b723-c9b495c12998",
+    "nombre": "Detergente",
+    "categoria": "Limpieza",
+    "precio": 2.19,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 83,
+    "sku": "SKU-302404"
+  },
+  {
+    "id": "0c093258-1c65-474b-9167-89403a714b3a",
+    "nombre": "Lechuga Romana",
+    "categoria": "Verduras",
+    "precio": 25.08,
+    "marca": "Mondelez",
+    "cantidadEnStock": 313,
+    "sku": "SKU-673203"
+  },
+  {
+    "id": "38815194-a520-415e-bf11-7795305c3139",
+    "nombre": "Nata para Cocinar",
+    "categoria": "Lacteos",
+    "precio": 5.64,
+    "marca": "Danone",
+    "cantidadEnStock": 174,
+    "sku": "SKU-914616"
+  },
+  {
+    "id": "22d92dd6-5ea5-46aa-af1f-baf64e75162e",
+    "nombre": "Café Molido",
+    "categoria": "Bebidas",
+    "precio": 29.99,
+    "marca": "Nestle",
+    "cantidadEnStock": 398,
+    "sku": "SKU-361029"
+  },
+  {
+    "id": "93fa560c-4680-4ac5-9732-c4b818bfedf0",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 1.38,
+    "marca": "Nestle",
+    "cantidadEnStock": 452,
+    "sku": "SKU-157746"
+  },
+  {
+    "id": "94cadda2-0ef5-4b69-ae94-07ac2991353d",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 19.43,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 420,
+    "sku": "SKU-395402"
+  },
+  {
+    "id": "7159c7f3-fa5a-4113-915e-5ca20e8622b3",
+    "nombre": "Atún en Conserva",
+    "categoria": "Despensa",
+    "precio": 28.07,
+    "marca": "Nestle",
+    "cantidadEnStock": 308,
+    "sku": "SKU-900685"
+  },
+  {
+    "id": "bf6bfc8d-a3d1-46d4-8f6f-ace68220de34",
+    "nombre": "Nata para Cocinar",
+    "categoria": "Lacteos",
+    "precio": 15.82,
+    "marca": "Danone",
+    "cantidadEnStock": 177,
+    "sku": "SKU-123410"
+  },
+  {
+    "id": "d8ed3547-5c0d-4cb3-b2a9-748c391286d4",
+    "nombre": "Melón",
+    "categoria": "Frutas",
+    "precio": 11.27,
+    "marca": "Mondelez",
+    "cantidadEnStock": 483,
+    "sku": "SKU-129139"
+  },
+  {
+    "id": "859821f1-b745-4230-8bde-8425d1f8c90f",
+    "nombre": "Champú",
+    "categoria": "Higiene Personal",
+    "precio": 7.15,
+    "marca": "L'Oreal",
+    "cantidadEnStock": 484,
+    "sku": "SKU-333992"
+  },
+  {
+    "id": "0850c449-b677-4e03-818d-744d2df5bb64",
+    "nombre": "Barra de Pan",
+    "categoria": "Panaderia",
+    "precio": 4.47,
+    "marca": "Mondelez",
+    "cantidadEnStock": 375,
+    "sku": "SKU-299348"
+  },
+  {
+    "id": "9121c363-b535-482f-a267-c19ec9954f86",
+    "nombre": "Arena para Gato",
+    "categoria": "Mascotas",
+    "precio": 25.81,
+    "marca": "Nestle",
+    "cantidadEnStock": 223,
+    "sku": "SKU-475472"
+  },
+  {
+    "id": "d436b6a0-a73c-4b6d-bfe5-b41237c76446",
+    "nombre": "Desinfectante Multiusos",
+    "categoria": "Limpieza",
+    "precio": 17.62,
+    "marca": "Unilever",
+    "cantidadEnStock": 149,
+    "sku": "SKU-935989"
+  },
+  {
+    "id": "2d3fd775-fffc-4a37-b395-ed90e3090d75",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 17.49,
+    "marca": "Nestle",
+    "cantidadEnStock": 24,
+    "sku": "SKU-495830"
+  },
+  {
+    "id": "eef8501b-2c5b-4c81-ac95-f6bc74b47623",
+    "nombre": "Snack para Perro",
+    "categoria": "Mascotas",
+    "precio": 24.9,
+    "marca": "Nestle",
+    "cantidadEnStock": 461,
+    "sku": "SKU-512591"
+  },
+  {
+    "id": "e086ea07-b82f-49bc-870a-4774606750da",
+    "nombre": "Snack para Perro",
+    "categoria": "Mascotas",
+    "precio": 3.83,
+    "marca": "Nestle",
+    "cantidadEnStock": 287,
+    "sku": "SKU-513372"
+  },
+  {
+    "id": "6834637f-d625-4a00-bbc0-402f2f55af54",
+    "nombre": "Piña",
+    "categoria": "Frutas",
+    "precio": 27.35,
+    "marca": "Mondelez",
+    "cantidadEnStock": 175,
+    "sku": "SKU-204641"
+  },
+  {
+    "id": "b7cad180-e571-446b-a7b7-8ffe624ec104",
+    "nombre": "Aceite de Oliva",
+    "categoria": "Despensa",
+    "precio": 7.0,
+    "marca": "Nestle",
+    "cantidadEnStock": 33,
+    "sku": "SKU-997904"
+  },
+  {
+    "id": "07e1237f-b88c-4a22-98bb-4af4b6e81bbe",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 17.5,
+    "marca": "Nestle",
+    "cantidadEnStock": 103,
+    "sku": "SKU-528410"
+  },
+  {
+    "id": "062fe3c1-1c85-45fe-9980-ea27d7e622ad",
+    "nombre": "Sal",
+    "categoria": "Despensa",
+    "precio": 25.39,
+    "marca": "Nestle",
+    "cantidadEnStock": 147,
+    "sku": "SKU-367331"
+  },
+  {
+    "id": "be5eeacc-7315-4702-a7a6-fb65d9528536",
+    "nombre": "Queso Curado",
+    "categoria": "Lacteos",
+    "precio": 24.77,
+    "marca": "Danone",
+    "cantidadEnStock": 99,
+    "sku": "SKU-397542"
+  },
+  {
+    "id": "066fc3af-a75e-455f-9b2f-b5ae68a5b69a",
+    "nombre": "Pimiento Rojo",
+    "categoria": "Verduras",
+    "precio": 17.16,
+    "marca": "Mondelez",
+    "cantidadEnStock": 237,
+    "sku": "SKU-813756"
+  },
+  {
+    "id": "8f1cd05b-9097-4992-9a46-8de2087d3afd",
+    "nombre": "Atún en Conserva",
+    "categoria": "Despensa",
+    "precio": 10.7,
+    "marca": "Nestle",
+    "cantidadEnStock": 432,
+    "sku": "SKU-331529"
+  },
+  {
+    "id": "2ac8bc33-96dd-4267-94c6-dfb44ea5babc",
+    "nombre": "Pavo",
+    "categoria": "Carnes",
+    "precio": 2.18,
+    "marca": "Nestle",
+    "cantidadEnStock": 448,
+    "sku": "SKU-258857"
+  },
+  {
+    "id": "1ccd6d34-ef25-469f-be88-780a20b1331b",
+    "nombre": "Tomate Frito",
+    "categoria": "Despensa",
+    "precio": 17.97,
+    "marca": "Nestle",
+    "cantidadEnStock": 350,
+    "sku": "SKU-265461"
+  },
+  {
+    "id": "29284c0a-3fdc-46eb-b6be-05849ffead06",
+    "nombre": "Aceite de Oliva",
+    "categoria": "Despensa",
+    "precio": 27.17,
+    "marca": "Nestle",
+    "cantidadEnStock": 52,
+    "sku": "SKU-208369"
+  },
+  {
+    "id": "73e07575-1cdc-4166-bcb4-3b5415e6a730",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 20.4,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 74,
+    "sku": "SKU-811708"
+  },
+  {
+    "id": "e74f3a2c-aa45-4b6a-9e8c-3032119f3f8a",
+    "nombre": "Magdalenas",
+    "categoria": "Panaderia",
+    "precio": 26.78,
+    "marca": "Mondelez",
+    "cantidadEnStock": 424,
+    "sku": "SKU-717417"
+  },
+  {
+    "id": "59d509dc-ee1c-490d-80b1-7806730deb52",
+    "nombre": "Gel de Ducha",
+    "categoria": "Higiene Personal",
+    "precio": 19.43,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 412,
+    "sku": "SKU-157361"
+  },
+  {
+    "id": "de3a137a-2b5f-4814-ac4c-ad51039d0353",
+    "nombre": "Barra de Pan",
+    "categoria": "Panaderia",
+    "precio": 25.53,
+    "marca": "Mondelez",
+    "cantidadEnStock": 344,
+    "sku": "SKU-189469"
+  },
+  {
+    "id": "9a8e478a-d632-4886-8446-88262385ba74",
+    "nombre": "Arena para Gato",
+    "categoria": "Mascotas",
+    "precio": 19.86,
+    "marca": "Nestle",
+    "cantidadEnStock": 311,
+    "sku": "SKU-149543"
+  },
+  {
+    "id": "0c347214-9460-43a4-b7f5-1cca35a53269",
+    "nombre": "Hamburguesa Vacuno",
+    "categoria": "Carnes",
+    "precio": 17.78,
+    "marca": "Nestle",
+    "cantidadEnStock": 218,
+    "sku": "SKU-377401"
+  },
+  {
+    "id": "620a76cb-aef5-4f6a-8ce8-c545c4ef3b44",
+    "nombre": "Filete de Ternera",
+    "categoria": "Carnes",
+    "precio": 1.24,
+    "marca": "Nestle",
+    "cantidadEnStock": 8,
+    "sku": "SKU-412547"
+  },
+  {
+    "id": "0440d3c7-54f8-4245-bda8-bdc494b0c9a8",
+    "nombre": "Comida para Perro",
+    "categoria": "Mascotas",
+    "precio": 10.72,
+    "marca": "Nestle",
+    "cantidadEnStock": 477,
+    "sku": "SKU-968811"
+  },
+  {
+    "id": "c1450c4d-4c4e-48c8-81fd-6cb3bd208936",
+    "nombre": "Donut",
+    "categoria": "Panaderia",
+    "precio": 8.44,
+    "marca": "Mondelez",
+    "cantidadEnStock": 468,
+    "sku": "SKU-473783"
+  },
+  {
+    "id": "5e476729-cb17-48d7-8a70-ae88441ab8d4",
+    "nombre": "Refresco Cola",
+    "categoria": "Bebidas",
+    "precio": 27.17,
+    "marca": "Coca-Cola",
+    "cantidadEnStock": 53,
+    "sku": "SKU-865436"
+  },
+  {
+    "id": "fbc8659a-e251-4699-b735-d4442b80336e",
+    "nombre": "Sandía",
+    "categoria": "Frutas",
+    "precio": 7.41,
+    "marca": "Mondelez",
+    "cantidadEnStock": 174,
+    "sku": "SKU-118989"
+  },
+  {
+    "id": "8864ba19-c299-4770-819b-734b229bb6a9",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 9.81,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 143,
+    "sku": "SKU-537176"
+  },
+  {
+    "id": "681bbf67-e367-45ed-aee1-8fe7b3f96a44",
+    "nombre": "Tomate",
+    "categoria": "Verduras",
+    "precio": 8.33,
+    "marca": "Mondelez",
+    "cantidadEnStock": 52,
+    "sku": "SKU-163810"
+  },
+  {
+    "id": "80affb1c-0faa-4178-8ed1-2de43f9fdca2",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 3.88,
+    "marca": "Danone",
+    "cantidadEnStock": 130,
+    "sku": "SKU-563624"
+  },
+  {
+    "id": "bc245d9a-0019-49f5-8197-300cbe82b5a6",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 23.84,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 62,
+    "sku": "SKU-640459"
+  },
+  {
+    "id": "3654f811-1fdc-4efe-84bf-98b789e4f82f",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 18.02,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 107,
+    "sku": "SKU-367676"
+  },
+  {
+    "id": "e91bc40a-863a-4f8f-b917-ad3d7d08ff82",
+    "nombre": "Zumo de Naranja",
+    "categoria": "Bebidas",
+    "precio": 22.98,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 317,
+    "sku": "SKU-442957"
+  },
+  {
+    "id": "8bc56fae-2b71-4620-b197-d0ee0884316d",
+    "nombre": "Pan de Molde",
+    "categoria": "Panaderia",
+    "precio": 17.79,
+    "marca": "Mondelez",
+    "cantidadEnStock": 127,
+    "sku": "SKU-945344"
+  },
+  {
+    "id": "d99cc48a-112b-43d6-ab33-9a5b7640a002",
+    "nombre": "Lejía",
+    "categoria": "Limpieza",
+    "precio": 5.57,
+    "marca": "Unilever",
+    "cantidadEnStock": 112,
+    "sku": "SKU-441557"
+  },
+  {
+    "id": "7b002952-918f-4247-9289-774f5b405990",
+    "nombre": "Pavo",
+    "categoria": "Carnes",
+    "precio": 14.48,
+    "marca": "Nestle",
+    "cantidadEnStock": 230,
+    "sku": "SKU-902741"
+  },
+  {
+    "id": "0bd1c205-b86e-46a9-9007-098beb04950c",
+    "nombre": "Croissant",
+    "categoria": "Panaderia",
+    "precio": 5.21,
+    "marca": "Mondelez",
+    "cantidadEnStock": 438,
+    "sku": "SKU-394307"
+  },
+  {
+    "id": "6f99be64-6a34-4e2d-a347-7153d1c8d4d6",
+    "nombre": "Champú para Perro",
+    "categoria": "Mascotas",
+    "precio": 25.51,
+    "marca": "Nestle",
+    "cantidadEnStock": 100,
+    "sku": "SKU-144746"
+  },
+  {
+    "id": "babe93a0-e675-45bb-9906-9290ea545ddc",
+    "nombre": "Pechuga de Pollo",
+    "categoria": "Carnes",
+    "precio": 13.18,
+    "marca": "Nestle",
+    "cantidadEnStock": 17,
+    "sku": "SKU-747250"
+  },
+  {
+    "id": "28c5e014-9f50-4828-8b9a-509189374832",
+    "nombre": "Croissant",
+    "categoria": "Panaderia",
+    "precio": 27.81,
+    "marca": "Mondelez",
+    "cantidadEnStock": 67,
+    "sku": "SKU-111008"
+  },
+  {
+    "id": "83c42391-06fe-4646-97d2-dbfd734c1133",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 22.73,
+    "marca": "Nestle",
+    "cantidadEnStock": 198,
+    "sku": "SKU-484003"
+  },
+  {
+    "id": "95404206-0e91-4e42-9f35-0a12a5b790ac",
+    "nombre": "Naranja",
+    "categoria": "Frutas",
+    "precio": 1.43,
+    "marca": "Mondelez",
+    "cantidadEnStock": 486,
+    "sku": "SKU-770164"
+  },
+  {
+    "id": "b74f7ff1-5db0-4042-8dd9-e405ee2279ae",
+    "nombre": "Magdalenas",
+    "categoria": "Panaderia",
+    "precio": 14.75,
+    "marca": "Mondelez",
+    "cantidadEnStock": 240,
+    "sku": "SKU-740370"
+  },
+  {
+    "id": "96dfe2c6-9d8c-4ec1-82d8-3e9008112c83",
+    "nombre": "Leche Entera",
+    "categoria": "Lacteos",
+    "precio": 2.77,
+    "marca": "Danone",
+    "cantidadEnStock": 0,
+    "sku": "SKU-107305"
+  },
+  {
+    "id": "a2b49225-d605-4371-b5a6-4dbbc9625711",
+    "nombre": "Azúcar",
+    "categoria": "Despensa",
+    "precio": 11.41,
+    "marca": "Nestle",
+    "cantidadEnStock": 240,
+    "sku": "SKU-750242"
+  },
+  {
+    "id": "10064382-1315-4a85-9643-8e6e5d8ce289",
+    "nombre": "Donut",
+    "categoria": "Panaderia",
+    "precio": 15.41,
+    "marca": "Mondelez",
+    "cantidadEnStock": 52,
+    "sku": "SKU-340075"
+  },
+  {
+    "id": "6e9e08de-66aa-4d89-a545-af5832bcacfd",
+    "nombre": "Berenjena",
+    "categoria": "Verduras",
+    "precio": 19.02,
+    "marca": "Mondelez",
+    "cantidadEnStock": 264,
+    "sku": "SKU-210330"
+  },
+  {
+    "id": "4ccc450b-ebb0-42d5-a419-82cd5b0229ec",
+    "nombre": "Lechuga Romana",
+    "categoria": "Verduras",
+    "precio": 1.59,
+    "marca": "Mondelez",
+    "cantidadEnStock": 115,
+    "sku": "SKU-876058"
+  },
+  {
+    "id": "342d27f5-cbf9-43d0-b9ce-c80b18a350d3",
+    "nombre": "Pera Conferencia",
+    "categoria": "Frutas",
+    "precio": 27.31,
+    "marca": "Mondelez",
+    "cantidadEnStock": 304,
+    "sku": "SKU-597970"
+  },
+  {
+    "id": "46d17f5c-93a8-4bdd-9277-67c653ef3e9a",
+    "nombre": "Café Molido",
+    "categoria": "Bebidas",
+    "precio": 27.64,
+    "marca": "Nestle",
+    "cantidadEnStock": 365,
+    "sku": "SKU-649834"
+  },
+  {
+    "id": "21b692c4-13e0-4e5e-b032-9c032a21d56e",
+    "nombre": "Desodorante",
+    "categoria": "Higiene Personal",
+    "precio": 21.32,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 413,
+    "sku": "SKU-673551"
+  },
+  {
+    "id": "59285a19-c073-408a-8397-4c266a69bb77",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 11.74,
+    "marca": "Danone",
+    "cantidadEnStock": 381,
+    "sku": "SKU-825074"
+  },
+  {
+    "id": "d564108f-4e7b-4c51-bc89-30dbd582d6ec",
+    "nombre": "Melón",
+    "categoria": "Frutas",
+    "precio": 29.86,
+    "marca": "Mondelez",
+    "cantidadEnStock": 83,
+    "sku": "SKU-161658"
+  },
+  {
+    "id": "920bc9b2-eebc-4b29-82f1-3116f16fe8c4",
+    "nombre": "Uvas",
+    "categoria": "Frutas",
+    "precio": 22.51,
+    "marca": "Mondelez",
+    "cantidadEnStock": 343,
+    "sku": "SKU-819479"
+  },
+  {
+    "id": "67be09b5-f03d-421f-b14e-f72aef0eabd9",
+    "nombre": "Barra de Pan",
+    "categoria": "Panaderia",
+    "precio": 15.23,
+    "marca": "Mondelez",
+    "cantidadEnStock": 351,
+    "sku": "SKU-959380"
+  },
+  {
+    "id": "37324f37-b4da-4c09-b87c-03952181ece1",
+    "nombre": "Sal",
+    "categoria": "Despensa",
+    "precio": 7.05,
+    "marca": "Nestle",
+    "cantidadEnStock": 423,
+    "sku": "SKU-109796"
+  },
+  {
+    "id": "32a46e6d-90d7-443b-8c11-9591c4021bc2",
+    "nombre": "Refresco Cola",
+    "categoria": "Bebidas",
+    "precio": 1.4,
+    "marca": "Coca-Cola",
+    "cantidadEnStock": 389,
+    "sku": "SKU-243406"
+  },
+  {
+    "id": "f5a9cbff-7725-4636-abfa-9f4539d86258",
+    "nombre": "Leche Entera",
+    "categoria": "Lacteos",
+    "precio": 4.24,
+    "marca": "Danone",
+    "cantidadEnStock": 284,
+    "sku": "SKU-423591"
+  },
+  {
+    "id": "77c60ea2-8f15-48b5-b0fa-7ed80dd4ede8",
+    "nombre": "Suavizante",
+    "categoria": "Limpieza",
+    "precio": 11.73,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 246,
+    "sku": "SKU-813689"
+  },
+  {
+    "id": "b07d844d-d1ed-498a-84e6-132819b88472",
+    "nombre": "Agua Mineral",
+    "categoria": "Bebidas",
+    "precio": 17.79,
+    "marca": "Heineken",
+    "cantidadEnStock": 54,
+    "sku": "SKU-271478"
+  },
+  {
+    "id": "131ed4eb-ddd3-4435-a911-21f4d90f3c0b",
+    "nombre": "Pimiento Rojo",
+    "categoria": "Verduras",
+    "precio": 21.49,
+    "marca": "Mondelez",
+    "cantidadEnStock": 460,
+    "sku": "SKU-206534"
+  },
+  {
+    "id": "befd406d-10ea-4a14-adfc-e74901a8b196",
+    "nombre": "Sandía",
+    "categoria": "Frutas",
+    "precio": 20.18,
+    "marca": "Mondelez",
+    "cantidadEnStock": 444,
+    "sku": "SKU-111285"
+  },
+  {
+    "id": "6aad7c46-a8bf-4b1d-ad64-9a1e5ec9c65f",
+    "nombre": "Refresco Cola",
+    "categoria": "Bebidas",
+    "precio": 26.16,
+    "marca": "Coca-Cola",
+    "cantidadEnStock": 391,
+    "sku": "SKU-228029"
+  },
+  {
+    "id": "d902aab3-95cc-4503-9be3-c9da6105e9a5",
+    "nombre": "Salchichas",
+    "categoria": "Carnes",
+    "precio": 5.33,
+    "marca": "Nestle",
+    "cantidadEnStock": 115,
+    "sku": "SKU-528385"
+  },
+  {
+    "id": "420582e2-450f-4fd2-a084-2e251548ec65",
+    "nombre": "Chuleta de Cerdo",
+    "categoria": "Carnes",
+    "precio": 3.81,
+    "marca": "Nestle",
+    "cantidadEnStock": 286,
+    "sku": "SKU-489169"
+  },
+  {
+    "id": "2a8da1cb-59dc-4e36-83bd-f5c8a0c577aa",
+    "nombre": "Mantequilla",
+    "categoria": "Lacteos",
+    "precio": 16.32,
+    "marca": "Danone",
+    "cantidadEnStock": 4,
+    "sku": "SKU-141161"
+  },
+  {
+    "id": "47d9205e-a567-4711-baef-09d814dd0d7b",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 12.13,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 372,
+    "sku": "SKU-271012"
+  },
+  {
+    "id": "b6f7d8b6-2cb5-4731-8c19-3842d046a0f1",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 13.2,
+    "marca": "Danone",
+    "cantidadEnStock": 180,
+    "sku": "SKU-645113"
+  },
+  {
+    "id": "81d57404-4fb9-4746-a938-2f6afd2256db",
+    "nombre": "Maíz Dulce",
+    "categoria": "Despensa",
+    "precio": 7.47,
+    "marca": "Nestle",
+    "cantidadEnStock": 369,
+    "sku": "SKU-297075"
+  },
+  {
+    "id": "997cb776-496e-44d2-9e6d-075ccd8846cf",
+    "nombre": "Berenjena",
+    "categoria": "Verduras",
+    "precio": 10.45,
+    "marca": "Mondelez",
+    "cantidadEnStock": 344,
+    "sku": "SKU-588526"
+  },
+  {
+    "id": "097c5ba5-0397-430e-bb2b-6b70bdf738aa",
+    "nombre": "Atún en Conserva",
+    "categoria": "Despensa",
+    "precio": 9.38,
+    "marca": "Nestle",
+    "cantidadEnStock": 38,
+    "sku": "SKU-869820"
+  },
+  {
+    "id": "af9bba90-dc49-4798-b166-cb3a075acd06",
+    "nombre": "Mantequilla",
+    "categoria": "Lacteos",
+    "precio": 14.92,
+    "marca": "Danone",
+    "cantidadEnStock": 127,
+    "sku": "SKU-362898"
+  },
+  {
+    "id": "0dfdb280-4b25-4b66-875e-af1770e70360",
+    "nombre": "Berenjena",
+    "categoria": "Verduras",
+    "precio": 5.75,
+    "marca": "Mondelez",
+    "cantidadEnStock": 410,
+    "sku": "SKU-133878"
+  },
+  {
+    "id": "127b15c0-4755-4145-a0ba-18a247390a5f",
+    "nombre": "Lavavajillas",
+    "categoria": "Limpieza",
+    "precio": 18.74,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 2,
+    "sku": "SKU-365851"
+  },
+  {
+    "id": "399c1edb-7c2e-4fe5-a905-eb7fb66f08e7",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 22.66,
+    "marca": "Nestle",
+    "cantidadEnStock": 232,
+    "sku": "SKU-825963"
+  },
+  {
+    "id": "5e639554-25b8-4c0e-b3b1-4a9c3281a5c1",
+    "nombre": "Piña",
+    "categoria": "Frutas",
+    "precio": 28.01,
+    "marca": "Mondelez",
+    "cantidadEnStock": 372,
+    "sku": "SKU-555248"
+  },
+  {
+    "id": "8d18651e-9b80-40d0-a0ea-08637cc7d81f",
+    "nombre": "Champú",
+    "categoria": "Higiene Personal",
+    "precio": 18.51,
+    "marca": "L'Oreal",
+    "cantidadEnStock": 157,
+    "sku": "SKU-696358"
+  },
+  {
+    "id": "5b9765a3-7f12-4f89-9b68-9c22da653476",
+    "nombre": "Bebida Energética",
+    "categoria": "Bebidas",
+    "precio": 6.74,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 374,
+    "sku": "SKU-182792"
+  },
+  {
+    "id": "6c706873-d9d3-4564-95c1-0ffb1ec7d5a9",
+    "nombre": "Uvas",
+    "categoria": "Frutas",
+    "precio": 6.45,
+    "marca": "Mondelez",
+    "cantidadEnStock": 355,
+    "sku": "SKU-483670"
+  },
+  {
+    "id": "df28e20b-2031-4a40-9fdf-21ddba7e8b83",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 5.16,
+    "marca": "Nestle",
+    "cantidadEnStock": 26,
+    "sku": "SKU-948068"
+  },
+  {
+    "id": "dabdbe08-c9f0-4870-a9ce-57315139af02",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 27.99,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 270,
+    "sku": "SKU-528790"
+  },
+  {
+    "id": "0053a15e-9c15-44cc-8339-98f28709cdef",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 20.29,
+    "marca": "Nestle",
+    "cantidadEnStock": 160,
+    "sku": "SKU-428245"
+  },
+  {
+    "id": "937fee77-6a68-4d63-a65f-565a317a0154",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 22.94,
+    "marca": "Danone",
+    "cantidadEnStock": 98,
+    "sku": "SKU-380300"
+  },
+  {
+    "id": "65f8b5c9-f998-498d-bddb-c92c19bb42cf",
+    "nombre": "Yogur Natural",
+    "categoria": "Lacteos",
+    "precio": 4.57,
+    "marca": "Danone",
+    "cantidadEnStock": 285,
+    "sku": "SKU-505974"
+  },
+  {
+    "id": "70617b01-d84a-4fb5-9f55-820057fb99e5",
+    "nombre": "Champú",
+    "categoria": "Higiene Personal",
+    "precio": 21.95,
+    "marca": "L'Oreal",
+    "cantidadEnStock": 384,
+    "sku": "SKU-181877"
+  },
+  {
+    "id": "1315a8ce-1f17-4c9d-bbe5-0dee7403f7fe",
+    "nombre": "Croissant",
+    "categoria": "Panaderia",
+    "precio": 8.58,
+    "marca": "Mondelez",
+    "cantidadEnStock": 431,
+    "sku": "SKU-522170"
+  },
+  {
+    "id": "c4136a81-8ae9-44f5-b879-35003bb4f3b9",
+    "nombre": "Piña",
+    "categoria": "Frutas",
+    "precio": 6.99,
+    "marca": "Mondelez",
+    "cantidadEnStock": 134,
+    "sku": "SKU-481394"
+  },
+  {
+    "id": "bd528a39-81af-4788-be44-1b90cd8a1a47",
+    "nombre": "Detergente",
+    "categoria": "Limpieza",
+    "precio": 24.27,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 124,
+    "sku": "SKU-371503"
+  },
+  {
+    "id": "f199b2ed-a8aa-4697-a62e-5f9eaea18ee9",
+    "nombre": "Pepino",
+    "categoria": "Verduras",
+    "precio": 11.52,
+    "marca": "Mondelez",
+    "cantidadEnStock": 303,
+    "sku": "SKU-733291"
+  },
+  {
+    "id": "2c2453b7-e363-4a34-a517-eda5ac0aa612",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 12.52,
+    "marca": "Danone",
+    "cantidadEnStock": 326,
+    "sku": "SKU-527777"
+  },
+  {
+    "id": "352e100c-f50f-4946-992b-f70eae19fffc",
+    "nombre": "Champú",
+    "categoria": "Higiene Personal",
+    "precio": 19.57,
+    "marca": "L'Oreal",
+    "cantidadEnStock": 241,
+    "sku": "SKU-640796"
+  },
+  {
+    "id": "f36e4dd2-e47a-4155-8bc0-bc071d1d8fef",
+    "nombre": "Pechuga de Pollo",
+    "categoria": "Carnes",
+    "precio": 13.34,
+    "marca": "Nestle",
+    "cantidadEnStock": 28,
+    "sku": "SKU-255069"
+  },
+  {
+    "id": "9da3e38e-54d7-4a23-80f1-7269618d8227",
+    "nombre": "Baguette",
+    "categoria": "Panaderia",
+    "precio": 9.75,
+    "marca": "Mondelez",
+    "cantidadEnStock": 265,
+    "sku": "SKU-678270"
+  },
+  {
+    "id": "5f757b76-52d4-429f-af2a-d013749ca371",
+    "nombre": "Zumo de Naranja",
+    "categoria": "Bebidas",
+    "precio": 4.32,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 479,
+    "sku": "SKU-527894"
+  },
+  {
+    "id": "9c6f6903-c31a-427f-ba5b-5cfacee17900",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 18.18,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 393,
+    "sku": "SKU-419899"
+  },
+  {
+    "id": "8fb24495-33d1-4c12-a548-4ff6a9d3848b",
+    "nombre": "Filete de Ternera",
+    "categoria": "Carnes",
+    "precio": 13.84,
+    "marca": "Nestle",
+    "cantidadEnStock": 80,
+    "sku": "SKU-742989"
+  },
+  {
+    "id": "125dd2d8-fe06-4a86-9271-804ec1614924",
+    "nombre": "Lavavajillas",
+    "categoria": "Limpieza",
+    "precio": 20.1,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 381,
+    "sku": "SKU-291436"
+  },
+  {
+    "id": "39c175e4-a1db-47b9-a63f-277108094d75",
+    "nombre": "Zumo de Naranja",
+    "categoria": "Bebidas",
+    "precio": 5.82,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 75,
+    "sku": "SKU-245960"
+  },
+  {
+    "id": "0bb6e521-4aff-409c-9cbc-fcc4306b9e6d",
+    "nombre": "Chuleta de Cerdo",
+    "categoria": "Carnes",
+    "precio": 24.92,
+    "marca": "Nestle",
+    "cantidadEnStock": 290,
+    "sku": "SKU-164054"
+  },
+  {
+    "id": "58a9aeee-7f94-4b2f-a995-6e964973bc90",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 17.46,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 316,
+    "sku": "SKU-781678"
+  },
+  {
+    "id": "76919e38-05c7-4c31-bf33-ac0f551c935d",
+    "nombre": "Comida para Perro",
+    "categoria": "Mascotas",
+    "precio": 3.29,
+    "marca": "Nestle",
+    "cantidadEnStock": 2,
+    "sku": "SKU-883305"
+  },
+  {
+    "id": "67a453ec-91e8-4ccf-8786-ae2ded631132",
+    "nombre": "Lejía",
+    "categoria": "Limpieza",
+    "precio": 2.46,
+    "marca": "Unilever",
+    "cantidadEnStock": 481,
+    "sku": "SKU-487254"
+  },
+  {
+    "id": "730b23ca-21e9-4850-b7d1-0a949d5b1321",
+    "nombre": "Arena para Gato",
+    "categoria": "Mascotas",
+    "precio": 5.38,
+    "marca": "Nestle",
+    "cantidadEnStock": 251,
+    "sku": "SKU-810828"
+  },
+  {
+    "id": "3e286ee1-9c6a-4f57-ac4f-0b9c29473f0c",
+    "nombre": "Espinacas",
+    "categoria": "Verduras",
+    "precio": 14.3,
+    "marca": "Mondelez",
+    "cantidadEnStock": 457,
+    "sku": "SKU-795710"
+  },
+  {
+    "id": "406289d2-ae08-48d3-be8d-925fd3f22c31",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 26.12,
+    "marca": "Nestle",
+    "cantidadEnStock": 475,
+    "sku": "SKU-894891"
+  },
+  {
+    "id": "87ff1ad4-3759-45b9-b050-ae9dc1b1ac72",
+    "nombre": "Croissant",
+    "categoria": "Panaderia",
+    "precio": 5.84,
+    "marca": "Mondelez",
+    "cantidadEnStock": 227,
+    "sku": "SKU-310444"
+  },
+  {
+    "id": "55f12b36-fffd-49d8-84d3-6b3ef48d91a2",
+    "nombre": "Pasta Espagueti",
+    "categoria": "Despensa",
+    "precio": 19.84,
+    "marca": "Nestle",
+    "cantidadEnStock": 124,
+    "sku": "SKU-619415"
+  },
+  {
+    "id": "1b3e00d1-c70b-4722-a43b-d6afdf7ec385",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 9.27,
+    "marca": "Danone",
+    "cantidadEnStock": 337,
+    "sku": "SKU-124614"
+  },
+  {
+    "id": "7c0e4906-ff0f-41f9-b1c0-20cbf5eca39f",
+    "nombre": "Sandía",
+    "categoria": "Frutas",
+    "precio": 21.24,
+    "marca": "Mondelez",
+    "cantidadEnStock": 207,
+    "sku": "SKU-277791"
+  },
+  {
+    "id": "24cfb909-f626-4b7f-bde8-866f72cdeee5",
+    "nombre": "Espinacas",
+    "categoria": "Verduras",
+    "precio": 13.42,
+    "marca": "Mondelez",
+    "cantidadEnStock": 69,
+    "sku": "SKU-834432"
+  },
+  {
+    "id": "ac1eac22-2b71-4632-8674-96e8bc80e1ff",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 20.43,
+    "marca": "Nestle",
+    "cantidadEnStock": 418,
+    "sku": "SKU-416187"
+  },
+  {
+    "id": "27193d27-9d11-4fdc-9bbd-bf52529ab17f",
+    "nombre": "Detergente",
+    "categoria": "Limpieza",
+    "precio": 6.44,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 441,
+    "sku": "SKU-637052"
+  },
+  {
+    "id": "825d6a80-8f39-458b-b7d8-b3ad129f97c0",
+    "nombre": "Nata para Cocinar",
+    "categoria": "Lacteos",
+    "precio": 6.28,
+    "marca": "Danone",
+    "cantidadEnStock": 258,
+    "sku": "SKU-902164"
+  },
+  {
+    "id": "0461b44b-bc8e-4ca6-91ee-8e738b5f47d1",
+    "nombre": "Desodorante",
+    "categoria": "Higiene Personal",
+    "precio": 29.13,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 461,
+    "sku": "SKU-228320"
+  },
+  {
+    "id": "200dd3a1-5e44-4acf-828d-f5fb8e022694",
+    "nombre": "Pera Conferencia",
+    "categoria": "Frutas",
+    "precio": 21.74,
+    "marca": "Mondelez",
+    "cantidadEnStock": 260,
+    "sku": "SKU-365926"
+  },
+  {
+    "id": "22719b0d-0580-4487-804e-ad1908eb6478",
+    "nombre": "Pasta Espagueti",
+    "categoria": "Despensa",
+    "precio": 1.3,
+    "marca": "Nestle",
+    "cantidadEnStock": 55,
+    "sku": "SKU-969463"
+  },
+  {
+    "id": "316e289d-12f6-4e09-a313-9503d2ac4a8b",
+    "nombre": "Papel Higiénico",
+    "categoria": "Higiene Personal",
+    "precio": 25.34,
+    "marca": "Unilever",
+    "cantidadEnStock": 95,
+    "sku": "SKU-635771"
+  },
+  {
+    "id": "7bbaa047-4814-4abe-ad53-900ec9bb1b68",
+    "nombre": "Limpiacristales",
+    "categoria": "Limpieza",
+    "precio": 28.17,
+    "marca": "Unilever",
+    "cantidadEnStock": 259,
+    "sku": "SKU-271103"
+  },
+  {
+    "id": "87dd13a0-3acd-486a-bd19-da0be770092c",
+    "nombre": "Champú para Perro",
+    "categoria": "Mascotas",
+    "precio": 18.88,
+    "marca": "Nestle",
+    "cantidadEnStock": 489,
+    "sku": "SKU-800662"
+  },
+  {
+    "id": "d26f4648-0b25-4da9-9338-43f457868c0f",
+    "nombre": "Chuleta de Cerdo",
+    "categoria": "Carnes",
+    "precio": 13.58,
+    "marca": "Nestle",
+    "cantidadEnStock": 282,
+    "sku": "SKU-506303"
+  },
+  {
+    "id": "b7dd66ca-7113-4e68-94ba-bad3d987097b",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 18.67,
+    "marca": "Nestle",
+    "cantidadEnStock": 150,
+    "sku": "SKU-252533"
+  },
+  {
+    "id": "2249a712-1643-4021-bd38-df5eec86eb2e",
+    "nombre": "Chuleta de Cerdo",
+    "categoria": "Carnes",
+    "precio": 18.89,
+    "marca": "Nestle",
+    "cantidadEnStock": 121,
+    "sku": "SKU-535728"
+  },
+  {
+    "id": "850e1f77-61ba-4a59-920b-4974c27f42b9",
+    "nombre": "Pasta Espagueti",
+    "categoria": "Despensa",
+    "precio": 9.41,
+    "marca": "Nestle",
+    "cantidadEnStock": 80,
+    "sku": "SKU-260471"
+  },
+  {
+    "id": "5f99558b-4ebb-4f93-9966-d5b253d8b684",
+    "nombre": "Suavizante",
+    "categoria": "Limpieza",
+    "precio": 16.67,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 391,
+    "sku": "SKU-430096"
+  },
+  {
+    "id": "a324a1f4-b327-4ea7-87ec-0ef33365baaa",
+    "nombre": "Nata para Cocinar",
+    "categoria": "Lacteos",
+    "precio": 16.17,
+    "marca": "Danone",
+    "cantidadEnStock": 124,
+    "sku": "SKU-422561"
+  },
+  {
+    "id": "0b7cbc67-41a3-487f-9f26-26e464b5901b",
+    "nombre": "Zumo de Naranja",
+    "categoria": "Bebidas",
+    "precio": 14.74,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 349,
+    "sku": "SKU-584305"
+  },
+  {
+    "id": "4db72464-ff6c-441e-bf2d-a4494ef40d8d",
+    "nombre": "Pechuga de Pollo",
+    "categoria": "Carnes",
+    "precio": 5.4,
+    "marca": "Nestle",
+    "cantidadEnStock": 61,
+    "sku": "SKU-809111"
+  },
+  {
+    "id": "1828aa30-1e5c-4aa4-ad17-2a64afb46362",
+    "nombre": "Sal",
+    "categoria": "Despensa",
+    "precio": 0.8,
+    "marca": "Nestle",
+    "cantidadEnStock": 37,
+    "sku": "SKU-267419"
+  },
+  {
+    "id": "d732ad24-0e18-4bc3-91ac-b1f9ce94a645",
+    "nombre": "Baguette",
+    "categoria": "Panaderia",
+    "precio": 17.11,
+    "marca": "Mondelez",
+    "cantidadEnStock": 359,
+    "sku": "SKU-680778"
+  },
+  {
+    "id": "3419e55e-c7ee-48ed-9b7a-20e841c5cf41",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 23.27,
+    "marca": "Nestle",
+    "cantidadEnStock": 376,
+    "sku": "SKU-387838"
+  },
+  {
+    "id": "960c49fb-9c0d-4e51-b6db-daa17d074191",
+    "nombre": "Pasta Espagueti",
+    "categoria": "Despensa",
+    "precio": 21.2,
+    "marca": "Nestle",
+    "cantidadEnStock": 112,
+    "sku": "SKU-490515"
+  },
+  {
+    "id": "b7bf6e88-3ac4-4dd5-b5fe-62c5e06c96eb",
+    "nombre": "Suavizante",
+    "categoria": "Limpieza",
+    "precio": 26.83,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 24,
+    "sku": "SKU-917301"
+  },
+  {
+    "id": "3b28a8fc-a099-4a9b-ae94-6e31c7eeaeb8",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 17.28,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 471,
+    "sku": "SKU-356932"
+  },
+  {
+    "id": "583eccbd-91bc-452d-955b-700ba1ab100f",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 13.43,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 259,
+    "sku": "SKU-998852"
+  },
+  {
+    "id": "8e0f003d-d428-4806-8125-de1c5e24d317",
+    "nombre": "Pasta Espagueti",
+    "categoria": "Despensa",
+    "precio": 14.68,
+    "marca": "Nestle",
+    "cantidadEnStock": 236,
+    "sku": "SKU-129105"
+  },
+  {
+    "id": "0d9b5c65-ffad-40ae-9723-0c2ef3a0b07e",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 4.48,
+    "marca": "Nestle",
+    "cantidadEnStock": 20,
+    "sku": "SKU-205802"
+  },
+  {
+    "id": "3f3ed6ed-e822-441a-bfd1-9d52973a83f6",
+    "nombre": "Pasta de Dientes",
+    "categoria": "Higiene Personal",
+    "precio": 14.83,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 298,
+    "sku": "SKU-741363"
+  },
+  {
+    "id": "07bd2e2c-b156-4384-84f0-4d627c5225c5",
+    "nombre": "Sandía",
+    "categoria": "Frutas",
+    "precio": 1.24,
+    "marca": "Mondelez",
+    "cantidadEnStock": 376,
+    "sku": "SKU-684996"
+  },
+  {
+    "id": "6499566f-7d75-48c6-8cc6-388ef3e88691",
+    "nombre": "Croissant",
+    "categoria": "Panaderia",
+    "precio": 22.43,
+    "marca": "Mondelez",
+    "cantidadEnStock": 120,
+    "sku": "SKU-876139"
+  },
+  {
+    "id": "3efd0e58-a0c7-4ea7-a45e-4ccd5aca9f67",
+    "nombre": "Donut",
+    "categoria": "Panaderia",
+    "precio": 23.14,
+    "marca": "Mondelez",
+    "cantidadEnStock": 28,
+    "sku": "SKU-751318"
+  },
+  {
+    "id": "e9c256f9-eb83-4607-8a91-394a448f621d",
+    "nombre": "Leche Entera",
+    "categoria": "Lacteos",
+    "precio": 9.7,
+    "marca": "Danone",
+    "cantidadEnStock": 452,
+    "sku": "SKU-145627"
+  },
+  {
+    "id": "20ca0e9f-5b62-45b9-b137-e991efcf5a89",
+    "nombre": "Mantequilla",
+    "categoria": "Lacteos",
+    "precio": 20.55,
+    "marca": "Danone",
+    "cantidadEnStock": 411,
+    "sku": "SKU-291545"
+  },
+  {
+    "id": "dfb16b2b-1cfc-4da4-b7e6-6534d9507936",
+    "nombre": "Donut",
+    "categoria": "Panaderia",
+    "precio": 29.29,
+    "marca": "Mondelez",
+    "cantidadEnStock": 1,
+    "sku": "SKU-968932"
+  },
+  {
+    "id": "4533c926-ee05-4193-913d-b6a54ecbe5d6",
+    "nombre": "Juguete para Gato",
+    "categoria": "Mascotas",
+    "precio": 27.91,
+    "marca": "Nestle",
+    "cantidadEnStock": 245,
+    "sku": "SKU-742968"
+  },
+  {
+    "id": "f2285f40-668e-4d8b-b306-72f05611d158",
+    "nombre": "Lechuga Romana",
+    "categoria": "Verduras",
+    "precio": 29.7,
+    "marca": "Mondelez",
+    "cantidadEnStock": 411,
+    "sku": "SKU-794255"
+  },
+  {
+    "id": "c87034db-38fc-4e97-8f4b-ce19d71ad2a3",
+    "nombre": "Café Molido",
+    "categoria": "Bebidas",
+    "precio": 6.52,
+    "marca": "Nestle",
+    "cantidadEnStock": 450,
+    "sku": "SKU-288389"
+  },
+  {
+    "id": "5e562579-982e-42f4-95d2-434dfc8f0b68",
+    "nombre": "Maíz Dulce",
+    "categoria": "Despensa",
+    "precio": 19.87,
+    "marca": "Nestle",
+    "cantidadEnStock": 198,
+    "sku": "SKU-423583"
+  },
+  {
+    "id": "4034b743-7ab8-4cdc-9862-da3936d8115d",
+    "nombre": "Papel Higiénico",
+    "categoria": "Higiene Personal",
+    "precio": 22.34,
+    "marca": "Unilever",
+    "cantidadEnStock": 141,
+    "sku": "SKU-717129"
+  },
+  {
+    "id": "b4522673-c57d-4009-ae0d-5d24a59a2cdb",
+    "nombre": "Lejía",
+    "categoria": "Limpieza",
+    "precio": 4.64,
+    "marca": "Unilever",
+    "cantidadEnStock": 389,
+    "sku": "SKU-107001"
+  },
+  {
+    "id": "9677661c-fe5d-4aa4-bf17-bee9caf8f7ac",
+    "nombre": "Papel Higiénico",
+    "categoria": "Higiene Personal",
+    "precio": 10.21,
+    "marca": "Unilever",
+    "cantidadEnStock": 210,
+    "sku": "SKU-560030"
+  },
+  {
+    "id": "93a62a88-f77e-4840-bad2-8718be44f739",
+    "nombre": "Bebida Energética",
+    "categoria": "Bebidas",
+    "precio": 2.93,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 121,
+    "sku": "SKU-703164"
+  },
+  {
+    "id": "78862a90-3c6b-4f27-bffa-85601fe7043b",
+    "nombre": "Carne Picada",
+    "categoria": "Carnes",
+    "precio": 21.27,
+    "marca": "Nestle",
+    "cantidadEnStock": 234,
+    "sku": "SKU-822539"
+  },
+  {
+    "id": "6d3b9729-e696-4b48-b2d0-b71813bdf6e7",
+    "nombre": "Atún en Conserva",
+    "categoria": "Despensa",
+    "precio": 21.33,
+    "marca": "Nestle",
+    "cantidadEnStock": 330,
+    "sku": "SKU-453786"
+  },
+  {
+    "id": "7c9b762d-492f-4f1a-b904-f54f73bf96f5",
+    "nombre": "Pechuga de Pollo",
+    "categoria": "Carnes",
+    "precio": 14.22,
+    "marca": "Nestle",
+    "cantidadEnStock": 398,
+    "sku": "SKU-697060"
+  },
+  {
+    "id": "44597a5d-6eb6-4f6c-9fe7-59d3d3ccd5a4",
+    "nombre": "Pavo",
+    "categoria": "Carnes",
+    "precio": 24.39,
+    "marca": "Nestle",
+    "cantidadEnStock": 61,
+    "sku": "SKU-206127"
+  },
+  {
+    "id": "30cbcef0-27c3-426a-95cf-f2e8d2297c20",
+    "nombre": "Arena para Gato",
+    "categoria": "Mascotas",
+    "precio": 8.08,
+    "marca": "Nestle",
+    "cantidadEnStock": 131,
+    "sku": "SKU-718496"
+  },
+  {
+    "id": "d3d65185-ec45-48ba-8b8c-4e931d030d44",
+    "nombre": "Café Molido",
+    "categoria": "Bebidas",
+    "precio": 10.98,
+    "marca": "Nestle",
+    "cantidadEnStock": 436,
+    "sku": "SKU-236646"
+  },
+  {
+    "id": "419ee661-569c-493e-929d-5734ca36249b",
+    "nombre": "Pera Conferencia",
+    "categoria": "Frutas",
+    "precio": 8.28,
+    "marca": "Mondelez",
+    "cantidadEnStock": 333,
+    "sku": "SKU-198359"
+  },
+  {
+    "id": "7fdd392f-7ec9-44bc-b150-bde35fb9a5a2",
+    "nombre": "Plátano",
+    "categoria": "Frutas",
+    "precio": 7.34,
+    "marca": "Mondelez",
+    "cantidadEnStock": 41,
+    "sku": "SKU-994998"
+  },
+  {
+    "id": "e6dcc868-f5c1-4525-8650-af7268234a04",
+    "nombre": "Donut",
+    "categoria": "Panaderia",
+    "precio": 3.67,
+    "marca": "Mondelez",
+    "cantidadEnStock": 88,
+    "sku": "SKU-631902"
+  },
+  {
+    "id": "e1f6ff9f-9745-41f7-9cbb-5c18afeb8331",
+    "nombre": "Maíz Dulce",
+    "categoria": "Despensa",
+    "precio": 9.61,
+    "marca": "Nestle",
+    "cantidadEnStock": 124,
+    "sku": "SKU-268665"
+  },
+  {
+    "id": "e6e9d04b-5ba2-44f6-9899-fc71964e063c",
+    "nombre": "Sandía",
+    "categoria": "Frutas",
+    "precio": 16.83,
+    "marca": "Mondelez",
+    "cantidadEnStock": 223,
+    "sku": "SKU-289337"
+  },
+  {
+    "id": "8dd035c9-7d6a-4d1a-b75f-8180828c5636",
+    "nombre": "Gel de Ducha",
+    "categoria": "Higiene Personal",
+    "precio": 17.55,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 162,
+    "sku": "SKU-868229"
+  },
+  {
+    "id": "2e710612-c6e3-4df7-9853-f985c3496b8b",
+    "nombre": "Kéfir",
+    "categoria": "Lacteos",
+    "precio": 16.49,
+    "marca": "Danone",
+    "cantidadEnStock": 483,
+    "sku": "SKU-943526"
+  },
+  {
+    "id": "b3ad6c91-214e-444e-a298-f818d7923dde",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 7.42,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 63,
+    "sku": "SKU-222469"
+  },
+  {
+    "id": "a00124ce-60e0-482d-b070-be32375de8d2",
+    "nombre": "Azúcar",
+    "categoria": "Despensa",
+    "precio": 2.38,
+    "marca": "Nestle",
+    "cantidadEnStock": 348,
+    "sku": "SKU-148930"
+  },
+  {
+    "id": "411ff02a-b2a1-4c91-b15a-bd6ec39eb67e",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 7.13,
+    "marca": "Nestle",
+    "cantidadEnStock": 226,
+    "sku": "SKU-746892"
+  },
+  {
+    "id": "c699f283-b90c-431c-bebb-fc61b539e017",
+    "nombre": "Espinacas",
+    "categoria": "Verduras",
+    "precio": 21.81,
+    "marca": "Mondelez",
+    "cantidadEnStock": 383,
+    "sku": "SKU-346612"
+  },
+  {
+    "id": "6b1d51e7-1479-4e8c-bef7-ebda167c7d63",
+    "nombre": "Té Verde",
+    "categoria": "Bebidas",
+    "precio": 2.65,
+    "marca": "Nestle",
+    "cantidadEnStock": 274,
+    "sku": "SKU-372769"
+  },
+  {
+    "id": "dfdc286b-e3b3-4e26-808d-d0a07aed05fb",
+    "nombre": "Cebolla",
+    "categoria": "Verduras",
+    "precio": 12.14,
+    "marca": "Mondelez",
+    "cantidadEnStock": 296,
+    "sku": "SKU-620669"
+  },
+  {
+    "id": "2b17ccd0-5a0b-40bc-bb29-fd26a363b30e",
+    "nombre": "Chuleta de Cerdo",
+    "categoria": "Carnes",
+    "precio": 10.13,
+    "marca": "Nestle",
+    "cantidadEnStock": 338,
+    "sku": "SKU-394997"
+  },
+  {
+    "id": "5ab25a6c-bd89-4d82-850b-0d7e931f1be1",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 16.73,
+    "marca": "Nestle",
+    "cantidadEnStock": 160,
+    "sku": "SKU-390159"
+  },
+  {
+    "id": "224c77de-ab45-4fa2-b2ed-0f512c3b4f91",
+    "nombre": "Desodorante",
+    "categoria": "Higiene Personal",
+    "precio": 15.89,
+    "marca": "Procter & Gamble",
+    "cantidadEnStock": 457,
+    "sku": "SKU-157345"
+  },
+  {
+    "id": "9a0911cd-e956-4553-a281-e54389a1629a",
+    "nombre": "Pavo",
+    "categoria": "Carnes",
+    "precio": 10.12,
+    "marca": "Nestle",
+    "cantidadEnStock": 364,
+    "sku": "SKU-478174"
+  },
+  {
+    "id": "8326f8e8-9ef0-4277-992b-793d90d4e56d",
+    "nombre": "Sal",
+    "categoria": "Despensa",
+    "precio": 24.8,
+    "marca": "Nestle",
+    "cantidadEnStock": 70,
+    "sku": "SKU-504355"
+  },
+  {
+    "id": "95ff74e4-7588-4865-acf1-7cc39b7b946a",
+    "nombre": "Queso Curado",
+    "categoria": "Lacteos",
+    "precio": 22.69,
+    "marca": "Danone",
+    "cantidadEnStock": 3,
+    "sku": "SKU-124924"
+  },
+  {
+    "id": "4433006b-9095-4e5e-bbc6-a5a7924303cc",
+    "nombre": "Magdalenas",
+    "categoria": "Panaderia",
+    "precio": 28.51,
+    "marca": "Mondelez",
+    "cantidadEnStock": 180,
+    "sku": "SKU-525672"
+  },
+  {
+    "id": "8de6a328-46eb-4407-b6fd-c908a7b7b11d",
+    "nombre": "Brócoli",
+    "categoria": "Verduras",
+    "precio": 15.73,
+    "marca": "Mondelez",
+    "cantidadEnStock": 184,
+    "sku": "SKU-215273"
+  },
+  {
+    "id": "9f985fb5-63b1-4066-8f07-0af2bc7af2a3",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 13.09,
+    "marca": "Nestle",
+    "cantidadEnStock": 476,
+    "sku": "SKU-386808"
+  },
+  {
+    "id": "e19257ec-dbe2-4b2c-8c7f-7de48eea5746",
+    "nombre": "Queso Curado",
+    "categoria": "Lacteos",
+    "precio": 0.88,
+    "marca": "Danone",
+    "cantidadEnStock": 496,
+    "sku": "SKU-201369"
+  },
+  {
+    "id": "dd9e1a9b-b322-477d-ad75-56685c7edae1",
+    "nombre": "Cepillo Dental",
+    "categoria": "Higiene Personal",
+    "precio": 26.81,
+    "marca": "Colgate-Palmolive",
+    "cantidadEnStock": 468,
+    "sku": "SKU-578627"
+  },
+  {
+    "id": "40e0a183-1b23-4510-aa4f-2b7f2500f72b",
+    "nombre": "Comida para Gato",
+    "categoria": "Mascotas",
+    "precio": 1.34,
+    "marca": "Nestle",
+    "cantidadEnStock": 410,
+    "sku": "SKU-708866"
+  },
+  {
+    "id": "2c6e640e-a1cd-4f6f-a379-3a44aeb8691f",
+    "nombre": "Bebida Energética",
+    "categoria": "Bebidas",
+    "precio": 3.47,
+    "marca": "PepsiCo",
+    "cantidadEnStock": 242,
+    "sku": "SKU-249292"
+  },
+  {
+    "id": "27ac8215-c641-4e3b-b64c-5488848eccff",
+    "nombre": "Melón",
+    "categoria": "Frutas",
+    "precio": 16.44,
+    "marca": "Mondelez",
+    "cantidadEnStock": 32,
+    "sku": "SKU-524490"
+  },
+  {
+    "id": "e6839bfc-5b5b-4299-81f2-ce30e532200f",
+    "nombre": "Baguette",
+    "categoria": "Panaderia",
+    "precio": 5.76,
+    "marca": "Mondelez",
+    "cantidadEnStock": 199,
+    "sku": "SKU-426082"
+  }
+]
