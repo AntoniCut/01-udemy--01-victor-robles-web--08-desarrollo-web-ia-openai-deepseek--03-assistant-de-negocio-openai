@@ -22,54 +22,110 @@
 
 <body>
 
+    <div class="layout">
 
-    <div class="layout__chat">
 
+        <header class="layout__header-project">
 
-        <!--  ----  Header  -----   -->
-        <header class="chat__header">
-
-            <img 
-                class="header__icon" 
-                src="./assets/img/carrito-de-supermercado-40x40.avif"
-                alt="Ícono de Carrito de Supermercado" width="40" height="40"
-            >
-
-            <h1 class="header__title">
-                Asistente - Supermercado
-                <br>
-                El PicoEsquina
+            <h1 class="header__title-project">
+                Desarrollo Web con IA
             </h1>
+
+            <div class="header__tech-stack">
+                
+                <div class="tech-item">
+                    <img src="./assets/img/openai-platform.svg" alt="OpenAI" class="tech-icon">
+                    <span class="tech-name"> OpenAI </span>
+                </div>
+                
+                <div class="tech-item">
+                    <img src="./assets/img/deepseek.png" alt="DeepSeek" class="tech-icon">
+                    <span class="tech-name"> DeepSeek </span>
+                </div>
+
+                <div class="tech-item tech-item--separator">
+                    <!--  -----  Separador  -----  -->  
+                </div>
+                
+                <div class="tech-item">
+                    <img src="./assets/img/javascript.svg" alt="JavaScript" class="tech-icon">
+                    <span class="tech-name"> JavaScript </span>
+                </div>
+                
+                <div class="tech-item">
+                    <img src="./assets/img/nodejs-icon.ico" alt="NodeJS" class="tech-icon">
+                    <span class="tech-name"> NodeJS </span>
+                </div>
+
+                <div class="tech-item">
+                    <img src="./assets/img/express.png" alt="Express" class="tech-icon">
+                    <span class="tech-name"> Express </span>
+                </div>
+
+                <div class="tech-item tech-item--separator">
+                    <!--  -----  Separador  -----  -->  
+                </div>
+
+                <div class="tech-item">
+                    <img src="./assets/img/github.svg" alt="GitHub" class="tech-icon">
+                    <span class="tech-name"> GitHub </span>
+                </div>
+
+            </div>
 
         </header>
 
 
-        <!--  ----  Main  -----   -->
-        <main class="chat__main">
+        <div class="layout__chat">
 
-            <!--  -----  Mensajes del Chat  -----  -->
-            <div class="chat__messages">
-                <!--  *****  Cargar los Mensajes  *****  -->
-            </div>
 
-            <!--  -----  Inputs del Chat  -----  -->
-            <div class="chat__input-group">
+            <!--  ----  Header  -----   -->
+            <header class="chat__header">
 
-                <!--  -----  Input de Texto  -----  -->
-                <input 
-                    type="text" id="inputText" 
-                    class="chat__input" 
-                    placeholder="¿En que te puedo ayudar?"
+                <img 
+                    class="header__icon" 
+                    src="./assets/img/carrito-de-supermercado-40x40.avif"
+                    alt="Ícono de Carrito de Supermercado" width="40" height="40"
                 >
 
-                <!--  -----  Botón de Traducción  -----  -->
-                <button class="chat__button" id="sendButton"> 
-                    Traducir 
-                </button>
+                <h2 class="header__title">
+                    Asistente - Supermercado
+                    <br>
+                    El PicoEsquina
+                </h2>
 
-            </div>
+            </header>
 
-        </main>
+
+            <!--  ----  Main  -----   -->
+            <main class="chat__main">
+
+                <!--  -----  Mensajes del Chat  -----  -->
+                <div class="chat__messages">
+                    <!--  *****  Cargar los Mensajes  *****  -->
+                </div>
+
+                <!--  -----  Inputs del Chat  -----  -->
+                <div class="chat__input-group">
+
+                    <!--  -----  Input de Texto  -----  -->
+                    <input 
+                        type="text" id="inputText" 
+                        class="chat__input" 
+                        placeholder="¿En que te puedo ayudar?"
+                    >
+
+                    <!--  -----  Botón de Traducción  -----  -->
+                    <button class="chat__button" id="sendButton"> 
+                        Traducir 
+                    </button>
+
+                </div>
+
+            </main>
+
+        </div>
+
 
     </div>
 
