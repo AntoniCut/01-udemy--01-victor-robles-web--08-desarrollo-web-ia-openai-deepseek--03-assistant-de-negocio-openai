@@ -51,6 +51,11 @@
     --transition-smooth: 300ms ease-in-out;
     --page-transition-duration: 1000ms;
     --page-transition-easing: ease-in-out;
+
+    /* Scrollbar del chat */
+    --color-scrollbar-track: #e0e0e0;
+    --color-scrollbar-thumb: #2d9a2c;
+    --color-scrollbar-hover: #29a840;
 }
 
 
@@ -243,6 +248,27 @@ body {
     border-radius: var(--border-radius-md);
     background-color: var(--color-bg-messages);
     box-shadow: var(--shadow-inset);
+}
+
+/*  -----  Scrollbar del chat  -----  */
+
+.chat__messages::-webkit-scrollbar {
+    width: 8px;
+}
+
+.chat__messages::-webkit-scrollbar-track {
+    background: var(--color-scrollbar-track);
+    border-radius: 4px;
+}
+
+.chat__messages::-webkit-scrollbar-thumb {
+    background: var(--color-scrollbar-thumb);
+    border-radius: 4px;
+    transition: background var(--transition-fast);
+}
+
+.chat__messages::-webkit-scrollbar-thumb:hover {
+    background: var(--color-scrollbar-hover);
 }
 
 .chat__message {
